@@ -1,1 +1,2 @@
-This repository contains schematics for various electronic circuits.
+## This repository contains schematics of various electronic circuits. It also contains various components. 
+
