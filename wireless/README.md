@@ -6,3 +6,5 @@
 - [nRF52840 Dongle](https://www.nordicsemi.com/Products/Development-hardware/nRF52840-Dongle)
 - [Nordic Thingy:53](https://www.nordicsemi.com/Products/Development-hardware/Nordic-Thingy-53)
 - [NRF5340 AUDIO DK](https://www.digikey.co.nz/en/products/detail/nordic-semiconductor-asa/NRF5340-AUDIO-DK/16399476)
+
+
