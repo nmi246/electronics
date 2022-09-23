@@ -8,3 +8,13 @@
 - [NRF5340 AUDIO DK](https://www.digikey.co.nz/en/products/detail/nordic-semiconductor-asa/NRF5340-AUDIO-DK/16399476)
 
 
+## WIFI:
+
+## Cellular:
+
+
+## LoRa:
+
+
+## NFC:
+
