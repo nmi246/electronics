@@ -17,3 +17,11 @@
     -  Package: 10 lead, 3x3 mm DFN.
 - SLA (Sealed Lead Acid):
  
+
+Solar battery chargers:
+- [SPV1040](https://www.st.com/en/power-management/spv1040.html#documentation)
+  - High efficiency solar battery charger with embedded MPPT
+  - 0.3 V to 5.5 V operating input voltage
+  
+  
+  
