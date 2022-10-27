@@ -25,3 +25,6 @@ Solar battery chargers:
   
   
   
+#### Battery protection IC:
+- [AP9101C](https://www.diodes.com/assets/Datasheets/AP9101C.pdf)
+  
