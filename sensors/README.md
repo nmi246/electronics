@@ -8,8 +8,12 @@
 - A Photoreflector is an LED and a phototransistor housed in a compact package that can be used for detection of proximity and colour of objects.
 - [RPR-220](https://fscdn.rohm.com/en/products/databook/datasheet/opto/optical_sensor/photosensor/rpr-220.pdf)
 
-#### Phototransistor:
-- ![image](https://user-images.githubusercontent.com/42329930/198909150-5ba82509-6c14-4654-9341-c740cd19bba9.png)
+#### Phototransistor, Photodiode:
+| Phototransistor | Photodiode | 
+|--|--|
+| ![image](https://user-images.githubusercontent.com/42329930/198909253-7a7b3b63-b12a-4d83-9d66-976a1db40803.png) | ![image](https://user-images.githubusercontent.com/42329930/198909280-3ed1de7b-338d-410b-8ad9-36d40d7cbebe.png) |
+
+
 
 ####
 
