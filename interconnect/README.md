@@ -11,3 +11,7 @@ Manufacturers:
 #### USB-C (Power and Data):
 - [USB4085, Fully through hole for maximum PCB retention](https://gct.co/connector/usb4085)
 - [USB4110, Fully SMD](https://gct.co/connector/usb4110)
+
+
+#### Flat Flex Cable (FFC) Connector:
+- [FFC2B35, 0.5mm Side entry FFC Connector](https://gct.co/connector/ffc2b35)
