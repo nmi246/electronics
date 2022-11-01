@@ -9,6 +9,7 @@
 
 
 ## WIFI:
+- [450-0152C, Laird Connectivity, WiFi + BLE](https://connectivity-staging.s3.us-east-2.amazonaws.com/2019-03/330-0190.pdf)
 
 ## Cellular:
 
