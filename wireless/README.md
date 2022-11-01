@@ -19,3 +19,9 @@
 
 ## NFC:
 
+
+## GNSS:
+
+
+## Generic RF Transceiver:
+
