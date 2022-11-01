@@ -14,5 +14,5 @@
   - [5 things you need to know about paralleling DC-DC converters](https://www.electropages.com/blog/2015/09/5-things-know-about-paralleling-dc-dc-converters)
 
 
-#### Wireless charging application note:
-[Wireless charging, Infineon](https://www.infineon.com/cms/en/applications/solutions/adapters-and-chargers/wireless-charging/#)
+#### Wireless charging:
+- [Wireless charging, Infineon, Application note and relevant products](https://www.infineon.com/cms/en/applications/solutions/adapters-and-chargers/wireless-charging/#)
