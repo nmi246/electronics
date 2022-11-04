@@ -23,21 +23,13 @@ LED manufacturers:
 
 
 
-## Acrynyms
-| Term | Definition |
-|--|--|
-| COB | Chip on board |
-| MR | Melanopic ratio |
-| CRI | Colour rendering index |
-| KSF |  |
-| CCT | Cool colour temperature |
-|  |  |
+## Acronyms 
+| Acronym | Long form |  Definition |
+|--|--|--|
+| COB | Chip on board | The mounting of a bare LED chip in direct contact with a substrate (such as silicon carbide or sapphire) to produce LED arrays |
+| MR | Melanopic ratio |  |
+| CRI | Colour rendering index |  |
+| PSF/KSF |--| A narrow band red producing phosphor, (often abbreviated PSF or KSF), used in LED lighting and displays |
+| CCT | Correlated colour temperature | The colour appearance of a white LED. CCT is defined in degrees Kelvin; a warm light is ~2700K, neutral white at ~4000K, and cool white at ~5000K or more. |
+|  |  |  |
 
-
-## Glossary
-| Term | Definition |
-|--|--|
-| Melanopic ratio | |
-| Colour rendering index | -- |
-| KSF | -- |
-| CCT | Cool colour temperature |
