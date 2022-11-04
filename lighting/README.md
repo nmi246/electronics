@@ -1,6 +1,6 @@
 # All things related to lighting
 
-# LED driver ICs:
+## LED driver ICs:
 - Infineon BCR431U series (10-200mA typical)
   - Linear LED driver IC.
   - Each LED string is fed by a contant current source. 
@@ -10,7 +10,7 @@
 - 
 
 
-LED manufacturers: 
+## LED manufacturers: 
 | Manufacturer | Applications |
 |---|---|
 | Lumileds | Lighting                   |
