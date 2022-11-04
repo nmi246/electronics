@@ -31,5 +31,5 @@ LED manufacturers:
 | CRI | Colour rendering index |  |
 | PSF/KSF |--| A narrow band red producing phosphor, (often abbreviated PSF or KSF), used in LED lighting and displays |
 | CCT | Correlated colour temperature | The colour appearance of a white LED. CCT is defined in degrees Kelvin; a warm light is ~2700K, neutral white at ~4000K, and cool white at ~5000K or more. |
-|  |  |  |
+| -- | Phosphor | A luminescent substance that emits light when excited by radiation (such as electrons) and is used especially in fluorescent lamps and cathode-ray tubes. |
 
