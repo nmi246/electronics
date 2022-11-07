@@ -20,7 +20,7 @@
 | Cost            |	Low	      | Medium	    | High   |
 
 
-## Thyristor (aka Silicon Controlled Rectifier (SCR))
+## Thyristor (aka Silicon Controlled Rectifier, SCR)
 | Thyristor 2 transistor analogy | Symbol | Typical thyristor |
 |--|--|--|
 |![image](https://user-images.githubusercontent.com/42329930/200206097-d1f7d86c-4081-40cd-9a6f-11ed3a01dba3.png) | ![image](https://user-images.githubusercontent.com/42329930/200206129-735d2fcd-8798-44ff-920d-2e5c610e6f41.png) | ![image](https://user-images.githubusercontent.com/42329930/200206152-2edfaee7-6e14-4451-8cd9-67a4f9bcdcea.png) |
