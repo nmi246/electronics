@@ -13,7 +13,7 @@
 | Voltage Rating	| High <1kV	 | High <1kV	| Very High >1kV | 
 | Current Rating	| High <500A | Low <200A	| High >500A     |
 | Input Drive     |	Current, hFE 20-200mA   | Voltage, VGS 3-10V | Voltage, VGE 4-8V |
-| Input Impedance |	Low	      |High	        | High   |
+| Input Impedance |	Low	      | High	      | High   |
 | Output Impedance| Low	      | Medium	    | Low    |
 | Switching Speed |	Slow (uS)	| Fast (nS)	  | Medium |
 | Cost            |	Low	      | Medium	    | High   |
