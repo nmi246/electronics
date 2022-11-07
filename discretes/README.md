@@ -22,12 +22,14 @@
 
 ## Thyristors
 
+| Thyristor 2 transistor analogy | Symbol | Typical thyristor |
+|--|--|--|--|
+|![image](https://user-images.githubusercontent.com/42329930/200206097-d1f7d86c-4081-40cd-9a6f-11ed3a01dba3.png) | ![image](https://user-images.githubusercontent.com/42329930/200206129-735d2fcd-8798-44ff-920d-2e5c610e6f41.png) | ![image](https://user-images.githubusercontent.com/42329930/200206152-2edfaee7-6e14-4451-8cd9-67a4f9bcdcea.png) |
 
-<p float="left">
-  <img src="https://user-images.githubusercontent.com/42329930/200205694-631013fc-56bc-437f-8e86-7f2966ec5966.png"  />
-  <img src="https://user-images.githubusercontent.com/42329930/200205450-8b034545-5047-41ac-a208-6b7b4684d285.png" />
 
-</p>
+| I-V Curve | Phase control |
+|--|--|
+|![image](https://user-images.githubusercontent.com/42329930/200206049-aae7fc1d-058d-450a-9ab7-b2b897407274.png) |![image](https://user-images.githubusercontent.com/42329930/200206068-0a1c38ef-17a4-439b-ad44-ea9b39c8f866.png)|
 
 ## Diodes
 - Si, TVS, 
