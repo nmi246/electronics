@@ -32,10 +32,10 @@
 
 
 - Requires a gate signal to turn **ON**. Once ON it behaves like a rectifying diode. 
-- Like the diode, the SCR is unidirectional. It only conducts current in one direction. 
-- But unlike a diode, it can be made to operate as either an open-circuit switch or as a rectifying diode depending on how the gate is triggered.
-- When **ON** and passing current in the forward direction, the gate signal loses all control due to the regenerative latching action of the two internal transistors.
-- For a thyristor to conduct, its Anode current (same as it's load current, IL) must be greater than its holding current value. That is IL > IH.
+- Is unidirectional; only conducts current in one direction. 
+- Unlike a diode, it can be made to operate as either an open-circuit switch or as a rectifying diode depending on how the gate is triggered.
+- When **ON** and passing current in the forward direction, the gate signal loses control due to the regenerative latching action of the two internal transistors.
+- For a thyristor to conduct, its anode current (same as it's load current, IL) must be greater than its holding current value. That is IL > IH.
 
 ## Diodes
 - Si, TVS, 
