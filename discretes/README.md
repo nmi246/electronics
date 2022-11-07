@@ -23,10 +23,10 @@
 ## Thyristors
 
 <p float="left">
-  <img src="![image](https://user-images.githubusercontent.com/42329930/200205235-1b89c40f-232e-4ab3-b3f9-c0694e2d7c22.png)" width="100"/>
-  <img src="![image](https://user-images.githubusercontent.com/42329930/200205252-fd78ec6e-8f7f-4967-86a5-1008055aa87c.png)" width="100"/> 
-  <img src="![image](https://user-images.githubusercontent.com/42329930/200205262-f954c684-97d4-47d0-9d02-758778c500ed.png)" width="100"/>
-  <img src="![image](https://user-images.githubusercontent.com/42329930/200205268-dd3cab10-f484-4189-948b-62c5f4381a6c.png)" width="100"/>
+  <img src=![image](https://user-images.githubusercontent.com/42329930/200205235-1b89c40f-232e-4ab3-b3f9-c0694e2d7c22.png) width="100"/>
+  <img src=![image](https://user-images.githubusercontent.com/42329930/200205252-fd78ec6e-8f7f-4967-86a5-1008055aa87c.png) width="100"/> 
+  <img src=![image](https://user-images.githubusercontent.com/42329930/200205262-f954c684-97d4-47d0-9d02-758778c500ed.png) width="100"/>
+  <img src=![image](https://user-images.githubusercontent.com/42329930/200205268-dd3cab10-f484-4189-948b-62c5f4381a6c.png) width="100"/>
 </p>
 
 
