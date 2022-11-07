@@ -7,15 +7,15 @@
 - IGBT, MOSFET, BJT comparison table:
   - !![image](https://user-images.githubusercontent.com/42329930/200203041-4513f2f5-eeff-4354-9d71-d8b07cb1076e.png)
 
-DeviceCharacteristic	| Power  BJT	 | Power MOSFET	 | IGBT |
-|--  |--  | -- | -- | 
-| Voltage Rating	| High <1kV	| High <1kV	| Very High >1kV | 
-| Current Rating	| High <500A	| Low <200A	| High >500A |
-| Input Drive |	Current, hFE 20-200mA | Voltage, VGS 3-10V	| Voltage, VGE 4-8V |
-| Input Impedance |	Low	|High	|High  |
-| Output Impedance	 |Low	| Medium	| Low |
-| Switching Speed |	Slow (uS)	| Fast (nS)	| Medium |
-| Cost |	Low	| Medium	| High |
+| Device Characteristic	| Power  BJT	| Power MOSFET	 | IGBT |
+|--|--|--|--| 
+| Voltage Rating	| High <1kV	 | High <1kV	| Very High >1kV | 
+| Current Rating	| High <500A | Low <200A	| High >500A     |
+| Input Drive     |	Current, hFE 20-200mA   | Voltage, VGS 3-10V | Voltage, VGE 4-8V |
+| Input Impedance |	Low	      |High	        | High   |
+| Output Impedance| Low	      | Medium	    | Low    |
+| Switching Speed |	Slow (uS)	| Fast (nS)	  | Medium |
+| Cost            |	Low	      | Medium	    | High   |
 
 
 ## Thyristors
