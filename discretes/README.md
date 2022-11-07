@@ -37,6 +37,11 @@
 - When **ON** and passing current in the forward direction, the gate signal loses control due to the regenerative latching action of the two internal transistors.
 - For a thyristor to conduct, its anode current (same as it's load current, IL) must be greater than its holding current value. That is IL > IH.
 
+
+## Triac
+- ![image](https://user-images.githubusercontent.com/42329930/200212150-d44af879-fdcb-4701-b87e-7d264c811f98.png)
+
+
 ## Diodes
 - Si, TVS, 
 
