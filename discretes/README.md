@@ -20,7 +20,7 @@
 | Cost            |	Low	      | Medium	    | High   |
 
 
-## Thyristors
+## Thyristor (aka Silicon Controlled Rectifier (SCR))
 | Thyristor 2 transistor analogy | Symbol | Typical thyristor |
 |--|--|--|
 |![image](https://user-images.githubusercontent.com/42329930/200206097-d1f7d86c-4081-40cd-9a6f-11ed3a01dba3.png) | ![image](https://user-images.githubusercontent.com/42329930/200206129-735d2fcd-8798-44ff-920d-2e5c610e6f41.png) | ![image](https://user-images.githubusercontent.com/42329930/200206152-2edfaee7-6e14-4451-8cd9-67a4f9bcdcea.png) |
@@ -29,6 +29,13 @@
 | I-V Curve | Phase control |
 |--|--|
 |![image](https://user-images.githubusercontent.com/42329930/200206049-aae7fc1d-058d-450a-9ab7-b2b897407274.png) |![image](https://user-images.githubusercontent.com/42329930/200206068-0a1c38ef-17a4-439b-ad44-ea9b39c8f866.png)|
+
+
+- Requires a gate signal to turn **ON**. Once ON it behaves like a rectifying diode. 
+- Like the diode, the SCR is unidirectional. It only conducts current in one direction. 
+- But unlike a diode, it can be made to operate as either an open-circuit switch or as a rectifying diode depending on how the gate is triggered.
+- When **ON** and passing current in the forward direction, the gate signal loses all control due to the regenerative latching action of the two internal transistors.
+- For a thyristor to conduct, its Anode current (same as it's load current, IL) must be greater than its holding current value. That is IL > IH.
 
 ## Diodes
 - Si, TVS, 
