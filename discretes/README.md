@@ -24,12 +24,8 @@
 
 
 <p float="left">
-  ![image](https://user-images.githubusercontent.com/42329930/200205450-8b034545-5047-41ac-a208-6b7b4684d285.png)
-</p>
-
-
-<p float="left">
-  <img src="https://user-images.githubusercontent.com/42329930/200205450-8b034545-5047-41ac-a208-6b7b4684d285.png" width="100" />
+  <img src="https://user-images.githubusercontent.com/42329930/200205694-631013fc-56bc-437f-8e86-7f2966ec5966.png"  />
+  <img src="https://user-images.githubusercontent.com/42329930/200205450-8b034545-5047-41ac-a208-6b7b4684d285.png" />
 
 </p>
 
