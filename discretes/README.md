@@ -6,8 +6,10 @@
 - The IGBT is a power switching transistor which combines the advantages of MOSFETs and BJTs for use in power supply and motor control circuits.
 - is something of a cross between a conventional BJT and a MOSFET, making it ideal as a semiconductor switching device.
 - The IGBT combines the insulated gate (hence the first part of its name) technology of the MOSFET with the output performance characteristics of a conventional bipolar transistor, (hence the second part of its name).
-- The IGBT has a much lower “on-state” resistance, Ron than an equivalent MOSFET.
-- IGBT, MOSFET, BJT comparison table:| Device Characteristic	| Power  BJT	| Power MOSFET	 | IGBT |
+- The IGBT has a much lower **on-state** resistance, Ron than an equivalent MOSFET.
+- IGBT, MOSFET, BJT comparison table:
+
+| Device Characteristic	| Power  BJT	| Power MOSFET	 | IGBT |
 |--|--|--|--| 
 | Voltage Rating	| High <1kV	 | High <1kV	| Very High >1kV | 
 | Current Rating	| High <500A | Low <200A	| High >500A     |
