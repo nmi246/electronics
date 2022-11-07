@@ -2,7 +2,7 @@
 ![image](https://user-images.githubusercontent.com/42329930/199118659-e2eadff4-2d91-4639-b045-aeadb145b9dc.png)
 
 ## IGBT (Insulated Gate Bipolar Transistor):
-- ![image](https://user-images.githubusercontent.com/42329930/200202296-a24dc8b2-0467-4ec7-9ed5-1f9695ef0642.png)
+![image](https://user-images.githubusercontent.com/42329930/200202296-a24dc8b2-0467-4ec7-9ed5-1f9695ef0642.png)
 - The IGBT is a power switching transistor which combines the advantages of MOSFETs and BJTs for use in power supply and motor control circuits.
 - is something of a cross between a conventional BJT and a MOSFET, making it ideal as a semiconductor switching device.
 - The IGBT combines the insulated gate (hence the first part of its name) technology of the MOSFET with the output performance characteristics of a conventional bipolar transistor, (hence the second part of its name).
@@ -21,6 +21,14 @@
 
 
 ## Thyristors
+
+<p float="left">
+  <img src="![image](https://user-images.githubusercontent.com/42329930/200205235-1b89c40f-232e-4ab3-b3f9-c0694e2d7c22.png)" />
+  <img src="![image](https://user-images.githubusercontent.com/42329930/200205252-fd78ec6e-8f7f-4967-86a5-1008055aa87c.png)" /> 
+  <img src="![image](https://user-images.githubusercontent.com/42329930/200205262-f954c684-97d4-47d0-9d02-758778c500ed.png)" />
+  <img src="![image](https://user-images.githubusercontent.com/42329930/200205268-dd3cab10-f484-4189-948b-62c5f4381a6c.png)" />
+</p>
+
 
 ## Diodes
 - Si, TVS, 
