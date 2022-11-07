@@ -27,6 +27,12 @@
   ![image](https://user-images.githubusercontent.com/42329930/200205450-8b034545-5047-41ac-a208-6b7b4684d285.png)
 </p>
 
+
+<p float="left">
+  <img src="https://user-images.githubusercontent.com/42329930/200205450-8b034545-5047-41ac-a208-6b7b4684d285.png" width="100" />
+
+</p>
+
 ## Diodes
 - Si, TVS, 
 
