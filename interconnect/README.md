@@ -18,3 +18,7 @@ Manufacturers:
 
 ## HDMI
 - [HDMI21-S-RA-SMT-TR, Adam Tech](https://app.adam-tech.com/products/download/data_sheet/203683/hdmi21-s-ra-smt-tr-data-sheet.pdf)
+
+
+## molex 
+Jst 
