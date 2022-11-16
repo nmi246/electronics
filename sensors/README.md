@@ -2,8 +2,8 @@
 
 ## 3-axis accelerometer:
 - [LIS2DH12TR, from STM, 3-axis "femto" accelerometer](https://www.st.com/en/mems-and-sensors/lis2dh12.html)
-- [ADXL362, ultra low power (<2uA at 100Hz), 3-axis MEMs](https://www.analog.com/media/en/technical-documentation/data-sheets/adxl362.pdf)
-- [ADXL355, ]()
+- [ADXL362, Analog Devices, ultra low power (<2uA at 100Hz), 3-axis MEMs](https://www.analog.com/media/en/technical-documentation/data-sheets/adxl362.pdf)
+- [ADXL355, Analog Devices, ]()
 
 ## Temperature switch:
 - [MCP9509](https://ww1.microchip.com/downloads/aemDocuments/documents/OTH/ProductDocuments/DataSheets/22114a.pdf)
