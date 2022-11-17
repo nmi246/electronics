@@ -2,8 +2,8 @@
 | Package | Definition | Image |
 |--|--|--|
 | QFP | Quad flat package.   | ![image](https://user-images.githubusercontent.com/42329930/200685597-4dd68150-46d3-474c-8ffa-f1ce2299a802.png) |
-| QFN | Quad Flat No-lead. A very small square-shaped or rectangular surface-mount plastic package with no leads. It's basically a QFP package, except for the absence of leads protruding from its sides. | ![image](https://user-images.githubusercontent.com/42329930/200685707-7aa5f864-b6cd-4dec-8b56-23759b4f1e82.png) |
-| DFN | Dual flat no-lead, similar to the QFN, except that QFN has pads all around the periphery of the package instead of just two sides like the DFN. Since DFN has no leads and has shorter bond wire lengths, it provides a higher electrical performance than leaded packages due to less inductance. |  |
+| QFN | Quad Flat No-lead.  A very small square-shaped or rectangular surface-mount plastic package with no leads. It's basically a QFP package, except for the absence of leads protruding from its sides. | ![image](https://user-images.githubusercontent.com/42329930/200685707-7aa5f864-b6cd-4dec-8b56-23759b4f1e82.png) |
+| DFN | Dual flat no-lead.  Similar to the QFN, except that QFN has pads all around the periphery of the package instead of just two sides like the DFN. Since DFN has no leads and has shorter bond wire lengths, it provides a higher electrical performance than leaded packages due to less inductance. |  |
 | TDFN | Dual flat no-lead   | Thin DFN, smaller than DFN  |
 | DIP | Dual in-line package | ![image](https://user-images.githubusercontent.com/42329930/200685802-bddbc6a6-54f2-41cf-8a81-c4af4587b694.png) |
 | SMX (SMA,B,C) | Surface Mount X | ![image](https://user-images.githubusercontent.com/42329930/200690920-f884c16b-f16c-4fa9-8e5b-84cfcdd3aadb.png) |
