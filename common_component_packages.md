@@ -1,7 +1,7 @@
 ## Glossary
 | Package | Definition | Image |
 |--|--|--|
-| QFP | Quad flat package.   | ![image](https://user-images.githubusercontent.com/42329930/200685597-4dd68150-46d3-474c-8ffa-f1ce2299a802.png) |
+| QFP | Quad flat package.<br/> PQFP: Plastic Quad Flat Pack. | ![image](https://user-images.githubusercontent.com/42329930/200685597-4dd68150-46d3-474c-8ffa-f1ce2299a802.png) |
 | QFN | Quad Flat No-lead.<br /> A very small square-shaped or rectangular surface-mount plastic package with no leads. It's basically a QFP package, except for the absence of leads protruding from its sides. | ![image](https://user-images.githubusercontent.com/42329930/200685707-7aa5f864-b6cd-4dec-8b56-23759b4f1e82.png) |
 | DFN | Dual flat no-lead.<br /> Similar to the QFN, except that QFN has pads all around the periphery of the package instead of just two sides like the DFN. Since DFN has no leads and has shorter bond wire lengths, it provides a higher electrical performance than leaded packages due to less inductance. |  |
 | TDFN | Thin DFN.<br /> Smaller than DFN |  |
