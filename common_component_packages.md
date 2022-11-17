@@ -21,5 +21,5 @@ The package density can be raised although it becomes high profile as the lead i
 
 
 
-
-Types of IC packages: https://www.chip1stop.com/sp/knowledge/045_types-of-ic-packages_de
+- IC Package Types: https://eesemi.com/ic-package-types.htm
+- Types of IC packages: https://www.chip1stop.com/sp/knowledge/045_types-of-ic-packages_de
