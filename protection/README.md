@@ -10,3 +10,5 @@ UVLO:
 - [TI TLV840-Q1](https://www.ti.com/lit/ds/symlink/tlv840-q1.pdf?HQS=dis-mous-null-mousermode-dsf-pf-null-wwe&ts=1665089299484&ref_url=https%253A%252F%252Fnz.mouser.com%252F)
 - Supervisor Open Drain or Open Collector 1 Channel SOT-23-5
 
+TVS diodes for surge protection:
+- can be paralleled to achieve higher current shunt rating.
