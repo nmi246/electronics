@@ -16,9 +16,13 @@ Manufacturers:
 #### Flat Flex Cable (FFC) Connector:
 - [FFC2B35, 0.5mm Side entry FFC Connector](https://gct.co/connector/ffc2b35)
 
-## HDMI
+### HDMI
 - [HDMI21-S-RA-SMT-TR, Adam Tech](https://app.adam-tech.com/products/download/data_sheet/203683/hdmi21-s-ra-smt-tr-data-sheet.pdf)
 
 
-## molex 
+### molex 
 Jst 
+
+### Nano SIM card connector
+- [SIM8060-6-0-14-00-A, from GCT](https://gct.co/connector/sim8060)
+- datasheet: https://media.digikey.com/pdf/Data%20Sheets/GCT%20PDFs/SIM8060_Spec.pdf  
