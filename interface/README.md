@@ -11,6 +11,13 @@ FTDI converter:
 - More info + datasheet: https://www.microchip.com/en-us/product/USB3343#document-table
 - ULPI design guide - App note: https://ww1.microchip.com/downloads/en/Appnotes/AN19.17-Application-Note-DS00002944A.pdf
 - ULPI overview:
-  - ![image](https://user-images.githubusercontent.com/42329930/204652289-024b0cfd-9ce2-4af4-8d10-070dcf77794b.png)
-  - ![image](https://user-images.githubusercontent.com/42329930/204652455-f5d8d8e2-e911-4d5d-96b1-36c83aeee5aa.png)
+![image](https://user-images.githubusercontent.com/42329930/204652289-024b0cfd-9ce2-4af4-8d10-070dcf77794b.png)
+![image](https://user-images.githubusercontent.com/42329930/204652455-f5d8d8e2-e911-4d5d-96b1-36c83aeee5aa.png)
  
+### USB Hub Controller
+- USB2504,  4-port USB hub controller 
+- Upstream Port: USB 2.0
+- USB Speed: USB 2.0
+- Downstream Ports:	4
+- info + datasheet: https://www.microchip.com/en-us/product/USB2504#document-table
+
