@@ -20,4 +20,6 @@ FTDI converter:
 - USB Speed: USB 2.0
 - Downstream Ports:	4
 - info + datasheet: https://www.microchip.com/en-us/product/USB2504#document-table
+- Eval board schematics: https://ww1.microchip.com/downloads/en/DeviceDoc/evb2504.pdf
+![image](https://user-images.githubusercontent.com/42329930/204687068-7a58e32a-0971-4e38-9361-f732edceb467.png)
 
