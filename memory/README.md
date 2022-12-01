@@ -1,5 +1,14 @@
 ## All things to do with both volatile memory (RAM, FRAM, etc) and non-volatile memory (SSD, EEPROM, FLASH, etc). 
 
+## Various types of memory:
+
+### Static random-access memory (static RAM or SRAM) is a type of random-access memory (RAM) that uses latching circuitry (flip-flop) to store each bit. SRAM is **volatile** memory; data is lost when power is removed.
+
+The term static differentiates SRAM from DRAM (dynamic random-access memory), which must be **periodically refreshed**. SRAM is faster and more expensive than DRAM; it is typically used for the cache and internal registers of a CPU while DRAM is used for a computer's main memory.
+
+
+
+
 
 ## Terms and Definitions
 - FRAM:
