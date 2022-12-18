@@ -25,3 +25,9 @@ UVLO:
 - [ESD Protection of USB Type-C Interfaces, Semtech](https://blog.semtech.com/esd-protection-of-usb-type-c-interfaces)
 
 <img src="https://user-images.githubusercontent.com/42329930/208318536-1e4d6e79-09b3-47f0-a64e-13a74f21af3e.png" width="60%" height="60%">
+
+#### Ethernet transformer
+- The primary purpose is isolation. Typically they are also used as part of the signal conditioning, turning a pair of single-ended drives into a differential signal on transmit and establishing the correct common mode voltage for the receiver on receive.
+- [TC2500, from Pulse](https://productfinder.pulseelectronics.com/api/open/part-attachments/datasheet/tc2500p)
+  - transformers for LAN Inter (1Gigabit, 2.5Gigabit, 5Gigabit, 10Gigabit) 
+  - see TC2500P for PoE
