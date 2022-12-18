@@ -12,6 +12,14 @@ UVLO:
 
 #### TVS diodes for surge protection:
 - [RClamp0512TQ, Semtech](https://semtech.my.salesforce.com/sfc/p/#E0000000JelG/a/2R000000UtDY/PnVj0b2DqYIKna5HnuYzpjpX4oyG8yipaHBmtQWQMM0)
-  - **D+ D- Solution**, Vrwm=5V, low capacitance (5pF max), 
-  - NB: TVS diodes can be paralleled to achieve higher current shunt ratings.
+  - **D+ D- Solution**, Vrwm: 5V, low capacitance: 5pF max, dynamic resistance: 0.075 ohm typ.
   - Applications: 10/100/1000 Ethernet, 2.5GbE, USB 2.0, Automotive, Industrial
+- [TDS2211P](https://semtech.my.salesforce.com/sfc/p/#E0000000JelG/a/2R000000UnaM/s6P7OygkYrTrUAHeHNJqh70C0XTvk6XFExvlymAGtD8)
+  - **Vbus Solution**, Vrwm=22V, protects one I/O or power line.
+  - Applications: USB PD, USB Type-C, IoT devices, storage devices, notebook/tablet computers, load switch input protection
+- [RClamp3371ZC]()
+  - **High Speed TX+/TX-, RX+/RX-**, Vrwm: 3.3V, 
+  - protects one high speed data line, low cap: 0.25pF max, dynamic resistance: 0.14 ohm typ.
+  - Applications: USB 3.1, USB 3.0, HDMI 1.4/2.0, USB Type-C, Thunderbolt, 10GbE
+- NB: TVS diodes can be paralleled to achieve higher current shunt ratings.
+- [ESD Protection of USB Type-C Interfaces, Semtech](https://blog.semtech.com/esd-protection-of-usb-type-c-interfaces)
