@@ -10,5 +10,8 @@ UVLO:
 - [TI TLV840-Q1](https://www.ti.com/lit/ds/symlink/tlv840-q1.pdf?HQS=dis-mous-null-mousermode-dsf-pf-null-wwe&ts=1665089299484&ref_url=https%253A%252F%252Fnz.mouser.com%252F)
 - Supervisor Open Drain or Open Collector 1 Channel SOT-23-5
 
-TVS diodes for surge protection:
-- can be paralleled to achieve higher current shunt rating.
+#### TVS diodes for surge protection:
+- [RClamp0512TQ, Semtech](https://semtech.my.salesforce.com/sfc/p/#E0000000JelG/a/2R000000UtDY/PnVj0b2DqYIKna5HnuYzpjpX4oyG8yipaHBmtQWQMM0)
+  - **D+ D- Solution**, Vrwm=5V, low capacitance (5pF max), 
+  - NB: TVS diodes can be paralleled to achieve higher current shunt ratings.
+  - Applications: 10/100/1000 Ethernet, 2.5GbE, USB 2.0, Automotive, Industrial
