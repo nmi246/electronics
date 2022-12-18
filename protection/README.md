@@ -23,5 +23,5 @@ UVLO:
   - Applications: USB 3.1, USB 3.0, HDMI 1.4/2.0, USB Type-C, Thunderbolt, 10GbE
 - NB: TVS diodes can be paralleled to achieve higher current shunt ratings.
 - [ESD Protection of USB Type-C Interfaces, Semtech](https://blog.semtech.com/esd-protection-of-usb-type-c-interfaces)
-- 
+
 <img src="https://user-images.githubusercontent.com/42329930/208318536-1e4d6e79-09b3-47f0-a64e-13a74f21af3e.png" width="60%" height="60%">
