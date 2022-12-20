@@ -66,3 +66,13 @@
 - trimmers
 - varistors
 - potentiometers
+
+
+## Capacitors:
+- Feedthrough capacitor
+  - [CX0805MRX7R0BB103, Pulse Electronics, 100V 0.01uF X7R 0805 20%](https://www.mouser.com/datasheet/2/447/X2Y_15-3003074.pdf)
+  - SMD CERAMIC EMI FILTER CAPACITOR
+  
+  
+  
+  
