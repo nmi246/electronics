@@ -38,7 +38,7 @@ UVLO:
 - 4 Independent integrated eFuses in one package
 - 2.5A Continuous current operation for each channel
 - 80 mΩ RDSon TYP @ 25 °C (1 A); each channel
-- -40 to 150°C TJ operating range
+- -40 to 150°C TJ operating range  
 ![image](https://user-images.githubusercontent.com/42329930/210479730-e261bee9-abc4-4757-8154-760811347c5a.png)
 
 
