@@ -50,3 +50,8 @@ TPS25221DBVT, Texas Intstruments
 - When a load attempts to draw current exceeding I_limit the internal FET enters constant current mode to keep I_load at or below I_limit.
 - https://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=https%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Ftps25221
 
+
+LS0505EVD22, Little Fuse
+- Electronic Fuse Regulator 5A 10-DFN (2x2)
+- https://www.littelfuse.com/media?resourcetype=datasheets&itemid=1bf74099-32be-4af5-b3e1-7da02015becb&filename=littelfuse-over-voltage-protection--ls0505evd22-datasheet-(1)
+
