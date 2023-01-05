@@ -23,3 +23,11 @@ FTDI converter:
 - Eval board schematics: https://ww1.microchip.com/downloads/en/DeviceDoc/evb2504.pdf
 ![image](https://user-images.githubusercontent.com/42329930/204687068-7a58e32a-0971-4e38-9361-f732edceb467.png)
 
+### RS232 transceiver
+- ICL3243ECAZ-T, from Renasas
+ - 250 kbps
+ - https://www.renesas.com/us/en/document/dst/icl3221e-icl3222e-icl3223e-icl3232e-icl3241e-icl3243e-datasheet
+- ST3243EBTR, from STM 
+ - 400 kbps
+ - https://www.st.com/content/ccc/resource/technical/document/datasheet/08/29/74/8c/ea/9e/47/f2/CD00002877.pdf/files/CD00002877.pdf/jcr:content/translations/en.CD00002877.pdf
+
