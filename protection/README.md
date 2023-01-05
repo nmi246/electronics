@@ -42,3 +42,11 @@ UVLO:
 ![image](https://user-images.githubusercontent.com/42329930/210479730-e261bee9-abc4-4757-8154-760811347c5a.png)
 
 
+### Current regulation / management
+TPS25221DBVT, Texas Intstruments
+- IC CURRENT SWITCH 2A SOT23-6 (aka USB power switch)
+- Intended for applications where heavy capacitive loads and short circuits may be encountered. 
+- Programmable I_limit (set between 275mA and 2.7A using external resistor).
+- When a load attempts to draw current exceeding I_limit the internal FET enters constant current mode to keep I_load at or below I_limit.
+- https://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=https%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Ftps25221
+
