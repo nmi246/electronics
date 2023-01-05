@@ -1,8 +1,8 @@
-### Protection circuits, etc
+# Protection circuits, etc
 
 
 
-### Battery protection
+## Battery protection
 - [Diodes Inc AP9101C](https://www.diodes.com/assets/Datasheets/AP9101C.pdf)
 - protection IC for li-ion/lipo battery with a high-precision voltage detection circuit.
 - 1 cell
@@ -10,7 +10,7 @@ UVLO:
 - [TI TLV840-Q1](https://www.ti.com/lit/ds/symlink/tlv840-q1.pdf?HQS=dis-mous-null-mousermode-dsf-pf-null-wwe&ts=1665089299484&ref_url=https%253A%252F%252Fnz.mouser.com%252F)
 - Supervisor Open Drain or Open Collector 1 Channel SOT-23-5
 
-### TVS diodes for surge protection:
+## TVS diodes for surge protection:
 - [RClamp0512TQ, Semtech](https://semtech.my.salesforce.com/sfc/p/#E0000000JelG/a/2R000000UtDY/PnVj0b2DqYIKna5HnuYzpjpX4oyG8yipaHBmtQWQMM0)
   - **D+ D- Solution**, Vrwm: 5V, low capacitance: 5pF max, dynamic resistance: 0.075 ohm typ.
   - Applications: 10/100/1000 Ethernet, 2.5GbE, USB 2.0, Automotive, Industrial
@@ -26,14 +26,14 @@ UVLO:
 
 <img src="https://user-images.githubusercontent.com/42329930/208318536-1e4d6e79-09b3-47f0-a64e-13a74f21af3e.png" width="60%" height="60%">
 
-### Ethernet transformer
+## Ethernet transformer
 - The primary purpose is isolation. Typically they are also used as part of the signal conditioning, turning a pair of single-ended drives into a differential signal on transmit and establishing the correct common mode voltage for the receiver on receive.
 - [TC2500, from Pulse](https://productfinder.pulseelectronics.com/api/open/part-attachments/datasheet/tc2500p)
   - transformers for LAN Inter (1Gigabit, 2.5Gigabit, 5Gigabit, 10Gigabit) 
   - see TC2500P for PoE
   
 
-### NIS3071 48V 4-Channel Integrated eFuse
+## NIS3071 48V 4-Channel Integrated eFuse
 - -0.5 to 60 V input voltage range
 - 4 Independent integrated eFuses in one package
 - 2.5A Continuous current operation for each channel
