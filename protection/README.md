@@ -42,7 +42,7 @@ UVLO:
 ![image](https://user-images.githubusercontent.com/42329930/210479730-e261bee9-abc4-4757-8154-760811347c5a.png)
 
 
-### Current regulation / management
+## Current regulation / management
 TPS25221DBVT, Texas Intstruments
 - IC CURRENT SWITCH 2A SOT23-6 (aka USB power switch)
 - Intended for applications where heavy capacitive loads and short circuits may be encountered. 
