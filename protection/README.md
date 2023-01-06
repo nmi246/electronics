@@ -55,3 +55,7 @@ LS0505EVD22, Little Fuse
 - Electronic Fuse Regulator 5A 10-DFN (2x2)
 - https://www.littelfuse.com/media?resourcetype=datasheets&itemid=1bf74099-32be-4af5-b3e1-7da02015becb&filename=littelfuse-over-voltage-protection--ls0505evd22-datasheet-(1)
 
+## IEC 61000-4-5 8/20 μs waveform
+![image](https://user-images.githubusercontent.com/42329930/210915894-a2790126-6414-4078-bef0-43d1dc8a0c17.png)
+
+
