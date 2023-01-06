@@ -59,3 +59,7 @@ LS0505EVD22, Little Fuse
 ![image](https://user-images.githubusercontent.com/42329930/210915894-a2790126-6414-4078-bef0-43d1dc8a0c17.png)
 
 
+## IEC61643-123 10/1000 μs waveform
+![image](https://user-images.githubusercontent.com/42329930/210916462-840cd892-08be-4ed3-a677-ff83efa5d86e.png)
+
+
