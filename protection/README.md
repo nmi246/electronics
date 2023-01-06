@@ -62,4 +62,5 @@ LS0505EVD22, Little Fuse
 ## IEC61643-123 10/1000 μs waveform
 ![image](https://user-images.githubusercontent.com/42329930/210916462-840cd892-08be-4ed3-a677-ff83efa5d86e.png)
 
-
+Basics of ESD Protection (TVS) Diodes (A Toshiba presentation):
+- https://toshiba.semicon-storage.com/info/application_note_en_20220527_AKX00461.pdf?did=68869
