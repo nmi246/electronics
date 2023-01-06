@@ -64,3 +64,10 @@ LS0505EVD22, Little Fuse
 
 Basics of ESD Protection (TVS) Diodes (A Toshiba presentation):
 - https://toshiba.semicon-storage.com/info/application_note_en_20220527_AKX00461.pdf?did=68869
+
+
+## Surge Switch
+![image](https://user-images.githubusercontent.com/42329930/210920093-6fe92410-097c-4658-8088-bcc23f16c95a.png)
+
+VI comparison curve:
+![image](https://user-images.githubusercontent.com/42329930/210920176-3866c822-f7ee-4405-aaef-d6a587069335.png)
