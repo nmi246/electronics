@@ -16,3 +16,9 @@
 
 #### Wireless charging:
 - [Wireless charging, Infineon, Application note and relevant products](https://www.infineon.com/cms/en/applications/solutions/adapters-and-chargers/wireless-charging/#)
+
+#### MOSFET gate driver
+- 1EDN7512BXTSA1, from Infineon
+- Low-Side Gate Driver IC Inverting, Non-Inverting PG-SOT23-5-1
+- https://www.infineon.com/dgdl/Infineon-1DN751x_1EDN851x_Rev+2.0-DS-v02_00-EN.pdf?fileId=5546d462576f34750157e176df0b3ca7
+![image](https://user-images.githubusercontent.com/42329930/213348149-67d6a94a-3232-4ae3-bb80-a65bc330457c.png)
