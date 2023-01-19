@@ -25,7 +25,8 @@
 
 
 
-##
+## Photosynthetically Active Radiation (PAR) Sensor
+A PAR sensor reports the Photosynthetic Photon Flux Density (PPFD), which corresponds to micromoles of photons per meter squared per second (μmol m-2 s-1). This is the power of electromagnetic radiation in the spectral range that is used by plants for photosynthesis (400–700 nm). A PAR sensor can be used to measure PPFD from sunlight and electric light sources.
 
 
 ##
