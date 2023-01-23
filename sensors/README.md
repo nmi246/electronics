@@ -29,4 +29,7 @@
 A PAR sensor reports the Photosynthetic Photon Flux Density (PPFD), which corresponds to micromoles of photons per meter squared per second (μmol m-2 s-1). This is the power of electromagnetic radiation in the spectral range that is used by plants for photosynthesis (400–700 nm). A PAR sensor can be used to measure PPFD from sunlight and electric light sources.
 
 
-##
+## PAS (photoacaustic spectroscopy) CO2 Sensor
+- PASCO2V01AUMA2, Infineon, $121, EOL
+- https://www.infineon.com/dgdl/Infineon-PASCO2V01-DataSheet-v01_03-DataSheet-v01_03-EN.pdf?fileId=8ac78c8c80027ecd01809278f1af1ba2
+
