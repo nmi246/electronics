@@ -32,6 +32,7 @@ A PAR sensor reports the Photosynthetic Photon Flux Density (PPFD), which corres
 ## PAS (photoacaustic spectroscopy) CO2 Sensor
 - PASCO2V01AUMA2, Infineon, $121, EOL
 - https://www.infineon.com/dgdl/Infineon-PASCO2V01-DataSheet-v01_03-DataSheet-v01_03-EN.pdf?fileId=8ac78c8c80027ecd01809278f1af1ba2
-- ![image](https://user-images.githubusercontent.com/42329930/214156698-80c7b96c-df91-4168-90a4-4180e47ec9bb.png)
+
+<img src="[img_girl.jpg](https://user-images.githubusercontent.com/42329930/214156698-80c7b96c-df91-4168-90a4-4180e47ec9bb.png)" width="500">
 
 
