@@ -21,7 +21,8 @@
 
 ## Power monitor / current sensor:
 - [PAC1921, high-side current sensor IC](https://www.microchip.com/en-us/product/PAC1921)
-![image](https://user-images.githubusercontent.com/42329930/199387585-21d1667e-8f5f-4464-821a-ca79686dfa5f.png)
+
+<img src="https://user-images.githubusercontent.com/42329930/199387585-21d1667e-8f5f-4464-821a-ca79686dfa5f.png" width=500">
 
 
 
