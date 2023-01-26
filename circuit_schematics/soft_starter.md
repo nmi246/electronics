@@ -56,7 +56,6 @@ Two such thyristors are connected in back-to-back formation for each phase. So i
 
 ## Advantages
 - Smooth Startup: gradual increase of voltage thus speed that results in smooth startup; leading to less mechanical stress or jerks that can damage the motor.
-
 - Acceleration & Deceleration Control: 
 - No Power Surges: the conventional motor starter allows full voltage across the motor resulting in a huge inrush current to the motor that can cause a -ve power surge in the circuit.
 - Multiple Startups: Some applications require the motor to start/stop multiple times in small period of time. a motor without a starter will experience overheating due to high starting current.  
