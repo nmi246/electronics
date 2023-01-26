@@ -5,12 +5,9 @@ https://www.electricaltechnology.org/2020/08/soft-starter.html
 - type of motor starter that uses the voltage reduction technique to reduce the voltage during the starting of the motor.
 - offers gradual increase in voltage during motor startup allowing the motor to slowly accelerate & gain speed.
 - Prevents mechanical tear & jerking due to sudden supplying of full voltage.
-
 - The torque of an induction motor is directly proportional to the square of the current, which depends on the supply voltage. So the supply voltage can be used to control the starting torque. In a normal motor starter, applying full voltage to the motor generates maximum starting torque which possess mechanical hazard to the motor.
 - Thus, a soft starter reduces starting torque & gradually increases it in a safe manner until it reaches its rated speed. At rated speed, the soft starter resumes the full voltage supply through it.
-
 - During motor stopping, the supply voltage is gradually reduced to smoothly decelerate the motor. At zero speed, it breaks the input voltage supply to the motor.
-
 - The main component used for the regulation of voltage in a soft starter is a Thyristor (SCR). Adjusting the firing angle of the thyristor regulates the voltage supplying through it. Other components such as OLR (overload relay) are used for overcurrent protection.
 
 
