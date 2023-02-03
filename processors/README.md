@@ -43,7 +43,11 @@
   - 
 - DFSDM
 - SPI
-- I2S
+
+- [I2S](https://www.st.com/resource/en/application_note/an4309-interfacing-an-stm32l1xx-microcontroller-with-an-external-i2s-audio-codec-to-play-audio-files-stmicroelectronics.pdf)
+  - 
+
+
 - UART / USART
 - [SAI (serial audio interface)](https://www.st.com/content/ccc/resource/training/technical/product_training/group0/d3/c0/b0/0e/fe/eb/40/a9/STM32H7-Peripheral-Serial-Audio-Interface_SAI/files/STM32H7-Peripheral-Serial-Audio-Interface_SAI.pdf/_jcr_content/translations/en.STM32H7-Peripheral-Serial-Audio-Interface_SAI.pdf)
   - The SAI integrated inside STM32 products provides an interface allowing the microcontroller to communicate with external audio devices such as amplifiers, ADCs, DACs or audio processors. This interface is fully configurable and supports most audio standards, allowing easy connection to existing audio devices.
@@ -99,14 +103,10 @@ controller can be embedded either in the display module or in the MCU.
 The display glass is driven by the display controller and is responsible to display the
 image that is composed of a matrix of pixels.
   - A display is characterized by:
-    – Display size (resolution): is defined by the number of pixels of the display that is
-represented by horizontal (pixels number) x vertical (lines number).
-     – Color depth: defines the number of colors in which a pixel can be drawn. It is
-represented in bits per pixel (bpp). For a color depth of 24 bpp (that can also be
+    – Display size (resolution): defined by the number of pixels of the display, represented by horizontal (pixels number) x vertical (lines number).
+    – Color depth: defines the number of colors in which a pixel can be drawn, represented in bits per pixel (bpp). For a color depth of 24 bpp (that can also be
 represented by RGB888) a pixel can be represented in 16777216 colors.
-    – Refresh rate (in Hz): is the number of times per second that the display panel is
-refreshed. A display must be refreshed 60 times per seconds (60 Hz) since lower
-refresh rate creates bad visual effects.
+    – Refresh rate (in Hz): number of times per sec that the display panel is refreshed.
 
 Basic embedded graphic system: 
 - A basic embedded graphic system is composed of a microcontroller, a framebuffer, a display controller and a display glass.
