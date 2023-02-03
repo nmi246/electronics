@@ -43,9 +43,19 @@
 - SPI
 - I2S
 - UART / USART
-- [SAI (Synchronous audio interface)](https://www.st.com/content/ccc/resource/training/technical/product_training/group0/d3/c0/b0/0e/fe/eb/40/a9/STM32H7-Peripheral-Serial-Audio-Interface_SAI/files/STM32H7-Peripheral-Serial-Audio-Interface_SAI.pdf/_jcr_content/translations/en.STM32H7-Peripheral-Serial-Audio-Interface_SAI.pdf)
+- [SAI (serial audio interface)](https://www.st.com/content/ccc/resource/training/technical/product_training/group0/d3/c0/b0/0e/fe/eb/40/a9/STM32H7-Peripheral-Serial-Audio-Interface_SAI/files/STM32H7-Peripheral-Serial-Audio-Interface_SAI.pdf/_jcr_content/translations/en.STM32H7-Peripheral-Serial-Audio-Interface_SAI.pdf)
   - The SAI integrated inside STM32 products provides an interface allowing the microcontroller to communicate with external audio devices such as amplifiers, ADCs, DACs or audio processors. This interface is fully configurable and supports most audio standards, allowing easy connection to existing audio devices.
-- SPDIF
+  - support various standards: I2S, TDM, SPDIF
+  - digital microphone interface
+  - supports several protocols:
+    - Free protocol modes: 
+      - I2S (inter-IC sound - Phillips stadard)
+      - I2S MSB or LSB justified
+      - TDM (time division multiplexing)
+      - PCM (pulse code modulation)
+    - SPDIF output (sony/phillips digital interface)
+    - PDM interface (pulse density modulation)
+    - AC'97 interface (Audio codec 97 from intel) 
 - 
 
 ## Control
@@ -67,8 +77,8 @@
 - 
 
 ## Graphics
-- LCD TFT controller
-
+- [LCD TFT controller](https://www.st.com/resource/en/application_note/an4861-lcdtft-display-controller-ltdc-on-stm32-mcus-stmicroelectronics.pdf)
+  -
 
 ## Security
 - AES 256, TDES
