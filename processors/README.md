@@ -38,7 +38,9 @@
 - USB
 - Camera interface
 - HDMI-CEC
-- MDIO Slave
+- [MDIO Slave](https://www.st.com/resource/en/product_training/STM32F7_Peripheral_MDIOS.pdf)
+  - management data input/output slave controller; used to exchange management data with a host device.
+  - 
 - DFSDM
 - SPI
 - I2S
@@ -72,13 +74,44 @@
 - LDO
 - internal / external oscillator
 - MDMA + DMA
+  - MDMA: master direct memory access controller 
+  - DMA: direct memory access controller
 - Reset and clock
 - watchdog
 - 
 
 ## Graphics
 - [LCD TFT controller](https://www.st.com/resource/en/application_note/an4861-lcdtft-display-controller-ltdc-on-stm32-mcus-stmicroelectronics.pdf)
-  -
+  - TFT LCD: Thin film transistor Liquid crystal display
+  - The MCU computes the image to be displayed in the framebuffer, assembling graphical
+primitives such as icons or images. The CPU performs this operation by running a
+graphical library software. This process can be accelerated by a dedicated hardware
+like the DMA2D Chrom-Art Accelerator, used by the graphical library. The more often
+the framebuffer is updated, the more fluent the animations are (animation fps)
+  - The framebuffer is a volatile memory used to store pixel data of the image to be
+displayed. This memory is usually called the graphic RAM (GRAM). The required size
+of the framebuffer depends on the resolution and color depth of the display. 
+Double buffering is a technique that uses double framebuffers to avoid displaying what
+is being written to the framebuffer.
+  - The display controller is continuously “refreshing” the display, transferring the
+framebuffer content to the display glass 60 times per second (60 Hz). The display
+controller can be embedded either in the display module or in the MCU.
+The display glass is driven by the display controller and is responsible to display the
+image that is composed of a matrix of pixels.
+  - A display is characterized by:
+    – Display size (resolution): is defined by the number of pixels of the display that is
+represented by horizontal (pixels number) x vertical (lines number).
+     – Color depth: defines the number of colors in which a pixel can be drawn. It is
+represented in bits per pixel (bpp). For a color depth of 24 bpp (that can also be
+represented by RGB888) a pixel can be represented in 16777216 colors.
+    – Refresh rate (in Hz): is the number of times per second that the display panel is
+refreshed. A display must be refreshed 60 times per seconds (60 Hz) since lower
+refresh rate creates bad visual effects.
+
+Basic embedded graphic system: 
+- A basic embedded graphic system is composed of a microcontroller, a framebuffer, a display controller and a display glass.
+![image](https://user-images.githubusercontent.com/42329930/216523278-c4c812b3-aced-4081-9bac-957336260c0c.png)
+
 
 ## Security
 - AES 256, TDES
