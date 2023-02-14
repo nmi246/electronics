@@ -38,3 +38,6 @@ A PAR sensor reports the Photosynthetic Photon Flux Density (PPFD), which corres
 <img src="https://user-images.githubusercontent.com/42329930/214156698-80c7b96c-df91-4168-90a4-4180e47ec9bb.png" width="250">
 
 
+## Detector switch
+- [SPVR110102, detector switch, aka micro limit switch](https://www.mouser.com/datasheet/2/15/SPVR-1370981.pdf)
+![image](https://user-images.githubusercontent.com/42329930/218602124-b66b783b-364b-45e1-859c-ed4f0b91d967.png)
