@@ -33,4 +33,6 @@
 
 ## Ethernet PHY
 - [KSZ8091RNA, from Microchip, $1.64 for 1x on Digikey](https://ww1.microchip.com/downloads/en/DeviceDoc/00002298A.pdf)
+![image](https://user-images.githubusercontent.com/42329930/218876790-1b7400da-c0dd-49f4-8566-3dbbd974f372.png)
+
 
