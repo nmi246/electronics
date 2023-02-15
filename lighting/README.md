@@ -33,3 +33,17 @@
 | CCT | Correlated colour temperature | The colour appearance of a white LED. CCT is defined in degrees Kelvin; a warm light is ~2700K, neutral white at ~4000K, and cool white at ~5000K or more. |
 | -- | Phosphor | A luminescent substance that emits light when excited by radiation (such as electrons) and is used especially in fluorescent lamps and cathode-ray tubes. |
 
+
+
+## UV LEDS
+- [SU CULCN1.VC-GAGD-67-0-100-R18, from AMS OSRAM, $6 for 1x from Mouser](https://www.mouser.com/datasheet/2/588/Osram_Opto_Semiconductor_SU_CULCN1_VC_EN-2891518.pdf)
+  - 100mA If, 5.7V Vf, 13.5mW
+  - UVC 275nm, 3.5x3.5mm package SMD
+- [LHUV-0405-A065, from Lumileds, $8.39 USD from 1x from Mouser](https://www.mouser.com/datasheet/2/602/DS178-1076460.pdf)
+  - 405nm, near-uv (NUV), UVA, 
+  - 500mA, 3V, 675 mW
+  - 1.7 x 1.3 mm 
+
+UV spectrum:  
+![image](https://user-images.githubusercontent.com/42329930/218896048-22877003-d0f4-41b6-9f1e-a3de7bc24066.png)
+
