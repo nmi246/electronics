@@ -1,4 +1,4 @@
-Motors, motor control, or anything related to motors.
+# Motors, motor control, or anything related to motors.
 
 STM32 Nucleo expansion boards - motor control selection guide: https://www.st.com/resource/en/brochure/stm32_nucleo_expansion_boards_motor_control_selection_guide.pdf
 
