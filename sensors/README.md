@@ -9,15 +9,20 @@
 - [MCP9509](https://ww1.microchip.com/downloads/aemDocuments/documents/OTH/ProductDocuments/DataSheets/22114a.pdf)
 - [MCP9501](https://ww1.microchip.com/downloads/aemDocuments/documents/OTH/ProductDocuments/DataSheets/20002268B.pdf)
 
+
 ## Reflective photosensor (photoreflector)
 - A Photoreflector is an LED and a phototransistor housed in a compact package that can be used for detection of proximity and colour of objects.
 - [RPR-220](https://fscdn.rohm.com/en/products/databook/datasheet/opto/optical_sensor/photosensor/rpr-220.pdf)
 - [TCRT5000](https://www.vishay.com/docs/83760/tcrt5000.pdf)
 - [ITR9909, Reflective optical sensor/interruptor from Everligth](https://media.digikey.com/pdf/Data%20Sheets/Everlight%20PDFs/ITR9909.pdf)
+- [VCNT2030, from Vishay, SMD](https://www.vishay.com/docs/80223/vcnt2030.pdf)  
+![image](https://user-images.githubusercontent.com/42329930/218891663-054cb43f-8f4a-4874-90a2-ed0c38ac7b0d.png)
+
 
 | Phototransistor | Photodiode | Photoreflector |
 |--|--|--|
 | ![image](https://user-images.githubusercontent.com/42329930/198909253-7a7b3b63-b12a-4d83-9d66-976a1db40803.png) | ![image](https://user-images.githubusercontent.com/42329930/198909280-3ed1de7b-338d-410b-8ad9-36d40d7cbebe.png) | ![image](https://user-images.githubusercontent.com/42329930/198909506-97f72c4b-4dd2-4917-8bda-4a8798c2462b.png) |
+
 
 
 ## Power monitor / current sensor:
