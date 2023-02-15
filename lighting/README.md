@@ -43,6 +43,11 @@
   - 405nm, near-uv (NUV)
   - 500mA, 3V, 675 mW
   - 1.7 x 1.3 mm 
+- Cheap Near UV devices:
+  - [SM0603UV-400, from Bivar, $1.20 USD Digikey](https://www.bivar.com/parts_content/Datasheets/SM0603UV-400.pdf) 
+  - [VLMU3100-GS08, from Vishay, $0.74 USD Digikey](https://www.vishay.com/docs/82556/vlmu3100.pdf)
+
+
 
 UV spectrum:  
 ![image](https://user-images.githubusercontent.com/42329930/218896048-22877003-d0f4-41b6-9f1e-a3de7bc24066.png)
