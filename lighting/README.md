@@ -40,7 +40,7 @@
   - 100mA If, 5.7V Vf, 13.5mW
   - UVC 275nm, 3.5x3.5mm package SMD
 - [LHUV-0405-A065, from Lumileds, $8.39 USD from 1x from Mouser](https://www.mouser.com/datasheet/2/602/DS178-1076460.pdf)
-  - 405nm, near-uv (NUV), UVA, 
+  - 405nm, near-uv (NUV)
   - 500mA, 3V, 675 mW
   - 1.7 x 1.3 mm 
 
