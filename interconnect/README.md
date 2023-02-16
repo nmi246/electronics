@@ -26,3 +26,10 @@ Jst
 ### Nano SIM card connector
 - [SIM8060-6-0-14-00-A, from GCT](https://gct.co/connector/sim8060)
 - datasheet: https://media.digikey.com/pdf/Data%20Sheets/GCT%20PDFs/SIM8060_Spec.pdf  
+
+
+## Edge card connectors:
+- standard PCB thickness: 1.6mm
+- Molex family of edge card connectors: https://www.molex.com/molex/products/group/edge_card_connectors
+
+**Plug vs receptacle:** The difference between a plug and receptacle is that plugs have prolonged connecting pins which fit into a mating socket called a receptacle. A receptacle connector is sometimes called a jack. A receptacle will have mounting features such as a flange with holes
