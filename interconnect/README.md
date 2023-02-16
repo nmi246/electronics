@@ -31,5 +31,7 @@ Jst
 ## Edge card connectors:
 - standard PCB thickness: 1.6mm
 - Molex family of edge card connectors: https://www.molex.com/molex/products/group/edge_card_connectors
+- PCB receptacle connectors??
+- https://www.molex.com/pdm_docs/sd/1714505102_sd.pdf
 
 **Plug vs receptacle:** The difference between a plug and receptacle is that plugs have prolonged connecting pins which fit into a mating socket called a receptacle. A receptacle connector is sometimes called a jack. A receptacle will have mounting features such as a flange with holes
