@@ -3,15 +3,32 @@
 
 ## BLuetooth:
 - [overview of BLE from Nordic](https://devzone.nordicsemi.com/cfs-file/__key/communityserver-discussions-components-files/4/Nordic-Semicondurcor-Introduction-To-Le-Audio.pdf?utm_campaign=2022%20Webinars&utm_source=youtube&utm_medium=social&utm_content=Link%20to%20PDF%20%7C%20Webinar%3A%20Intro%20to%20Bluetooth%20LE%20Audio)
+
 - [nRF52840 Dongle](https://www.nordicsemi.com/Products/Development-hardware/nRF52840-Dongle)
+
 - [Nordic Thingy:53](https://www.nordicsemi.com/Products/Development-hardware/Nordic-Thingy-53)
+
 - [NRF5340 AUDIO DK](https://www.digikey.co.nz/en/products/detail/nordic-semiconductor-asa/NRF5340-AUDIO-DK/16399476)
+
 - [DA14531MOD-00F01002, from Renesas, $4.5 USD for 1x at Digikey](https://www.renesas.com/sg/en/document/dst/da14531-module-datasheet?r=1601921)
+  - digikey: https://www.digikey.com/en/products/detail/dialog-semiconductor-gmbh/DA14531MOD-00F01002/11685947   
   - BLE v5.1 module
   - utilised IC: DA14531, 128kB Flash, 144kB ROM, 48kB RAM
   - current RX,TX: 2mA,4mA
-- []()
+  - ![image](https://user-images.githubusercontent.com/42329930/219544055-1ae474f8-1950-4d32-8dec-5c100b24f336.png)
 
+- [BT860-SA, from Laird, $9.86USD for 1x from Digikey](https://connectivity-staging.s3.us-east-2.amazonaws.com/2019-02/CS-DS-BT860%20v1_2.pdf)
+  - data rate: 3Mbps
+  - Power output: 8dBm, Sensitivity: -94dBm, 
+  - current TX: 55mA
+  - ![image](https://user-images.githubusercontent.com/42329930/219543953-5f2c2c13-fe72-4bc1-a27a-332052ea798e.png)
+
+- [BLUENRG-M2SP, from ST Micro, $12.20 USD for 1x from Digikey](https://www.st.com/content/ccc/resource/sales_and_marketing/promotional_material/flyer/group0/b7/4e/b5/79/15/6d/46/23/BlueNRG_2_BlueNRG_2N_Flyer/files/FLBNRG0720.pdf/jcr:content/translations/en.FLBNRG0720.pdf)
+  - digikey: https://www.digikey.com/en/products/detail/stmicroelectronics/BLUENRG-M2SP/10821731
+  - Bluetooth v5.0 module, integrated PCB Trace Antenna 
+  - Power output: 7dbm, Sensitivity: -85dBm
+  - Current RX: 15mA, Current TX: 13.7mA ~ 33.9mA
+ 
 
 ## WIFI:
 - [450-0152C, Laird Connectivity, WiFi + BLE](https://connectivity-staging.s3.us-east-2.amazonaws.com/2019-03/330-0190.pdf)
