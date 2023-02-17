@@ -18,6 +18,9 @@ Manufacturers:
 
 ### HDMI
 - [HDMI21-S-RA-SMT-TR, Adam Tech](https://app.adam-tech.com/products/download/data_sheet/203683/hdmi21-s-ra-smt-tr-data-sheet.pdf)
+  - digikey: https://www.digikey.com/en/products/detail/adam-tech/HDMI21-S-RA-SMT-TR/13978870
+  - ![image](https://user-images.githubusercontent.com/42329930/219545195-b7735753-38cd-4b2a-9819-c2035d99f6a2.png)
+   
 
 
 ### molex 
