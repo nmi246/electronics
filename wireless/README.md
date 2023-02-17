@@ -6,6 +6,11 @@
 - [nRF52840 Dongle](https://www.nordicsemi.com/Products/Development-hardware/nRF52840-Dongle)
 - [Nordic Thingy:53](https://www.nordicsemi.com/Products/Development-hardware/Nordic-Thingy-53)
 - [NRF5340 AUDIO DK](https://www.digikey.co.nz/en/products/detail/nordic-semiconductor-asa/NRF5340-AUDIO-DK/16399476)
+- [DA14531MOD-00F01002, from Renesas, $4.5 USD for 1x at Digikey](https://www.renesas.com/sg/en/document/dst/da14531-module-datasheet?r=1601921)
+  - BLE v5.1 module
+  - utilised IC: DA14531, 128kB Flash, 144kB ROM, 48kB RAM
+  - current RX,TX: 2mA,4mA
+- []()
 
 
 ## WIFI:
@@ -16,8 +21,9 @@
 
 ## LoRa:
 - [SX1262IMLTRT, LoRa TxRx IC, Semtech, $8.33 USD Digikey](https://semtech.my.salesforce.com/sfc/p/#E0000000JelG/a/2R000000HT7B/4cQ1B3JG0iKRo9DGRkjVuxclfwB.3tfSUcGr.S_dPd4)
-- IC RF TxRx Only General ISM < 1GHz LoRaWAN 150MHz ~ 960MHz 24-VFQFN Exposed Pad
-![image](https://user-images.githubusercontent.com/42329930/218909901-0c6338e5-efed-4cbb-b392-971a08359d93.png)
+  - IC RF TxRx Only General ISM < 1GHz LoRaWAN 150MHz ~ 960MHz 24-VFQFN Exposed Pad
+  - ![image](https://user-images.githubusercontent.com/42329930/218909901-0c6338e5-efed-4cbb-b392-971a08359d93.png)
+- 
 
 
 ## NFC:
