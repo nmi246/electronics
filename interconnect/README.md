@@ -13,7 +13,9 @@ Manufacturers:
 
 #### USB-C (Power and Data):
 - [USB4085, Fully through hole for maximum PCB retention](https://gct.co/connector/usb4085)
-- [USB4110, Fully SMD](https://gct.co/connector/usb4110)
+- [USB4110, from GCT, $2.23 USD /pc Digikey](https://gct.co/connector/usb4110)
+  - digikey: https://www.digikey.co.nz/en/products/detail/gct/USB4110-GF-A/10384548
+  - USB-C, USB 2.0 Receptacle Connector, 24 pin (16+8 Dummy) Position Surface Mount, Right Angle
 
 
 #### Flat Flex Cable (FFC) Connector:
