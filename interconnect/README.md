@@ -6,7 +6,10 @@ Manufacturers:
 
 #### USB-C (Power only):
 - [USB4125, from GCT, SMD power pins, PTH mounting pins](https://gct.co/connector/usb4125)
-- [USB4135, from GCT, fully surface mount](https://gct.co/connector/usb4135)
+- [USB4135, from GCT, $1.23 USD /pc Digikey](https://gct.co/connector/usb4135)
+  - digikey: https://www.digikey.com.au/en/products/detail/gct/USB4135-GF-A/16036137
+  - ![image](https://user-images.githubusercontent.com/42329930/219545451-598042ed-05ed-4856-8e4a-dfecbc382cb1.png)
+   
 
 #### USB-C (Power and Data):
 - [USB4085, Fully through hole for maximum PCB retention](https://gct.co/connector/usb4085)
