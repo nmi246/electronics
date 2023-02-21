@@ -30,8 +30,16 @@
   - Current RX: 15mA, Current TX: 13.7mA ~ 33.9mA
  
 
-## WIFI:
+## WIFI + Bluetooth:
 - [450-0152C, Laird Connectivity, WiFi + BLE](https://connectivity-staging.s3.us-east-2.amazonaws.com/2019-03/330-0190.pdf)
+- [ESP32-S2-MINI-1U-N4R2, from Espressif, $2.32USD ea on Digikey](https://www.digikey.com/en/products/detail/espressif-systems/ESP32-S2-MINI-1U-N4R2/15222567)
+  - datasheet: https://www.espressif.com/sites/default/files/documentation/esp32-s2-mini-1_esp32-s2-mini-1u_datasheet_en.pdf
+  - 2.4 GHz WiFi + Bluetooth + BLE module
+  - Built around ESP32 series of SoC, Xtensa dual core 32 bit LX6 microprocessor
+  - 4 MB flash, 28 GPIOs, rich set of peripherals, On-board PCB antenna or external antenna connector
+  - ![image](https://user-images.githubusercontent.com/42329930/220484305-ace0e08f-5e4e-4c60-a008-40a28a1384f6.png)
+
+
 
 ## Cellular:
 
