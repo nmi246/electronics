@@ -46,3 +46,8 @@ A PAR sensor reports the Photosynthetic Photon Flux Density (PPFD), which corres
 ## Detector switch
 - [SPVR110102, detector switch, aka micro limit switch, from Alps Alpine](https://www.mouser.com/datasheet/2/15/SPVR-1370981.pdf)  
 ![image](https://user-images.githubusercontent.com/42329930/218602124-b66b783b-364b-45e1-859c-ed4f0b91d967.png)
+
+## Touch controller
+- [MTCH102, from Microchip, $0.84USD ea from Digikey](https://www.digikey.com/en/products/detail/microchip-technology/mtch102-i-ms/5358221)
+  - datasheet: https://ww1.microchip.com/downloads/aemDocuments/documents/OTH/ProductDocuments/DataSheets/40001780A.pdf
+  - 2 channel Proximity/Touch controller with simple digital outputs.
