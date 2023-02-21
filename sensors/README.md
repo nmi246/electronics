@@ -51,6 +51,6 @@ A PAR sensor reports the Photosynthetic Photon Flux Density (PPFD), which corres
 - [MTCH102, from Microchip, $0.84USD ea from Digikey](https://www.digikey.com/en/products/detail/microchip-technology/mtch102-i-ms/5358221)
   - datasheet: https://ww1.microchip.com/downloads/aemDocuments/documents/OTH/ProductDocuments/DataSheets/40001780A.pdf
   - 2 channel Proximity/Touch controller with simple digital outputs.
-<img src="https://user-images.githubusercontent.com/42329930/220481128-82fefdd9-4b44-45d0-b9c8-7bdf2002d6d9.png" width="800">
+<img src="https://user-images.githubusercontent.com/42329930/220481128-82fefdd9-4b44-45d0-b9c8-7bdf2002d6d9.png" width="200">
 
 
