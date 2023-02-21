@@ -3,7 +3,8 @@
 STM32 Nucleo expansion boards - motor control selection guide: https://www.st.com/resource/en/brochure/stm32_nucleo_expansion_boards_motor_control_selection_guide.pdf
 
 ## Low voltage three phase and three sense motor driver
-- [STSPIN233](https://www.st.com/content/ccc/resource/technical/document/datasheet/group3/9b/1c/56/b3/f5/43/4b/1c/DM00441037/files/DM00441037.pdf/jcr:content/translations/en.DM00441037.pdf)
+- [STSPIN233, from STMicro, $3.06USD ea from Digikey](https://www.st.com/content/ccc/resource/technical/document/datasheet/group3/9b/1c/56/b3/f5/43/4b/1c/DM00441037/files/DM00441037.pdf/jcr:content/translations/en.DM00441037.pdf)
+- Digikey: https://www.digikey.com/en/products/detail/stmicroelectronics/STSPIN233/8346481
 - Operating voltage 1.8-10V, I_out max 1.3Arms, RDS(on) HS + LS = 0.4Ω typ, Supporting three shunt sensing topology
 – Non-dissipative overcurrent protection, short-circuit protection, thermal shutdown
 - Direct driving, dedicated input and enable pin for each half-bridge
