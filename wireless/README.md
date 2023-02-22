@@ -15,15 +15,14 @@
   - BLE v5.1 module
   - utilised IC: DA14531, 128kB Flash, 144kB ROM, 48kB RAM
   - current RX,TX: 2mA,4mA
-  - ![image](https://user-images.githubusercontent.com/42329930/219544055-1ae474f8-1950-4d32-8dec-5c100b24f336.png)
-  - <img src="https://user-images.githubusercontent.com/42329930/218909901-0c6338e5-efed-4cbb-b392-971a08359d93.png" width="200">
+  - <img src="https://user-images.githubusercontent.com/42329930/219544055-1ae474f8-1950-4d32-8dec-5c100b24f336.png" width="300">
 
 
 - [BT860-SA, from Laird, $9.86USD for 1x from Digikey](https://connectivity-staging.s3.us-east-2.amazonaws.com/2019-02/CS-DS-BT860%20v1_2.pdf)
   - data rate: 3Mbps
   - Power output: 8dBm, Sensitivity: -94dBm, 
   - current TX: 55mA
-  - <img src="https://user-images.githubusercontent.com/42329930/219543953-5f2c2c13-fe72-4bc1-a27a-332052ea798e.png" width="200">
+  - <img src="https://user-images.githubusercontent.com/42329930/219543953-5f2c2c13-fe72-4bc1-a27a-332052ea798e.png" width="300">
 
 
 - [BLUENRG-M2SP, from ST Micro, $12.20 USD for 1x from Digikey](https://www.st.com/content/ccc/resource/sales_and_marketing/promotional_material/flyer/group0/b7/4e/b5/79/15/6d/46/23/BlueNRG_2_BlueNRG_2N_Flyer/files/FLBNRG0720.pdf/jcr:content/translations/en.FLBNRG0720.pdf)
@@ -40,7 +39,7 @@
   - 2.4 GHz WiFi + Bluetooth + BLE module
   - Built around ESP32 series of SoC, Xtensa dual core 32 bit LX6 microprocessor
   - 4 MB flash, 28 GPIOs, rich set of peripherals, On-board PCB antenna or external antenna connector
-  - <img src="https://user-images.githubusercontent.com/42329930/220484305-ace0e08f-5e4e-4c60-a008-40a28a1384f6.png" width="200">
+  - <img src="https://user-images.githubusercontent.com/42329930/220484305-ace0e08f-5e4e-4c60-a008-40a28a1384f6.png" width="500">
 
 
 
