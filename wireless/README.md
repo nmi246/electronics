@@ -40,7 +40,7 @@
   - Built around ESP32 series of SoC, Xtensa dual core 32 bit LX6 microprocessor
   - 4 MB flash, 28 GPIOs, rich set of peripherals, On-board PCB antenna or external antenna connector
   - <img src="https://user-images.githubusercontent.com/42329930/220484305-ace0e08f-5e4e-4c60-a008-40a28a1384f6.png" width="500">
-![image](https://user-images.githubusercontent.com/42329930/220494611-669fdde8-1b7f-4566-886e-4f3135b7e65e.png)
+
 
 
 
@@ -50,6 +50,8 @@
   - Datasheet: https://infocenter.nordicsemi.com/pdf/nRF9160_PS_v2.0.pdf
   - IC RF TXRX + MCU CELLULAR LTE-M
   - <img src="https://user-images.githubusercontent.com/42329930/220493933-c4e8bec7-2500-482d-b108-9dab599dfd1f.png" width="300">
+![image](https://user-images.githubusercontent.com/42329930/220494611-669fdde8-1b7f-4566-886e-4f3135b7e65e.png)
+
 
 
 ## LoRa:
