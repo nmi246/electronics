@@ -48,7 +48,8 @@
 - [SX1262IMLTRT, LoRa TxRx IC, Semtech, $8.33 USD Digikey](https://semtech.my.salesforce.com/sfc/p/#E0000000JelG/a/2R000000HT7B/4cQ1B3JG0iKRo9DGRkjVuxclfwB.3tfSUcGr.S_dPd4)
   - digikey: https://www.digikey.com/en/products/detail/semtech-corporation/SX1262IMLTRT/8564369
   - IC RF TxRx Only General ISM < 1GHz LoRaWAN 150MHz ~ 960MHz 24-VFQFN Exposed Pad
-  - ![image](https://user-images.githubusercontent.com/42329930/218909901-0c6338e5-efed-4cbb-b392-971a08359d93.png)
+  - 
+  - <img src="https://user-images.githubusercontent.com/42329930/218909901-0c6338e5-efed-4cbb-b392-971a08359d93.png" width="200">
   - 
 - 
 
@@ -60,4 +61,6 @@
 
 
 ## Generic RF Transceiver:
+
+
 
