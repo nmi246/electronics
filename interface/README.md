@@ -35,4 +35,16 @@
 - [KSZ8091RNA, from Microchip, $1.64 for 1x on Digikey](https://ww1.microchip.com/downloads/en/DeviceDoc/00002298A.pdf)
 ![image](https://user-images.githubusercontent.com/42329930/218876790-1b7400da-c0dd-49f4-8566-3dbbd974f372.png)
 
+## Ethernet Switch
+-	[KSZ9896CTXC from Microchip, $13.47 USD /pc from Digikey](https://www.digikey.com/en/products/detail/microchip-technology/KSZ9896CTXC/7164761)
+ - Ethernet Switch IEEE 802.3 I²C, SPI Interface 128-TQFP-EP (14x14)
+ - 6-Port Gigabit Ethernet Switch with GMII/RGMII/MII/RMII Interface
+ - Five ports with integrated 10/100/1000BASE-T PHY transceivers
+ - https://ww1.microchip.com/downloads/aemDocuments/documents/OTH/ProductDocuments/DataSheets/KSZ9896C-Data-Sheet-DS00002390C.pdf
+![image](https://user-images.githubusercontent.com/42329930/224580066-312084e4-1b88-440b-92bc-c60fcb0f7ee9.png)
+
+
+
+
+
 
