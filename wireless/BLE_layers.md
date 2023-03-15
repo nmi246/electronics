@@ -1,11 +1,7 @@
+# BLE Layers and what they are for/do:
 
 
 ![image](https://user-images.githubusercontent.com/42329930/225172132-58009dc9-4f2a-413e-bf77-3c70baf3397f.png)
-
-
-
-
-
 
 
 
