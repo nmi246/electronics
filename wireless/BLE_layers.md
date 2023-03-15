@@ -38,10 +38,46 @@ Link layer (LL) state machine:
 - provides logical channels
 - multiplexed over one or more logical channels.
 
+## SMP
+- Security manager
+  - how to pair, exchange keyes, encryption, decryption 
+- SMP protocol codes:
+  - ![image](https://user-images.githubusercontent.com/42329930/225174610-d7d9b310-7f94-4e5a-8237-935095cfa636.png)
+- SMP pairing model:
+  - ![image](https://user-images.githubusercontent.com/42329930/225174670-1c78e9ac-3619-401d-9d2d-578dda4c79db.png)
+- SMP IO capabilites to algorithm
+  - ![image](https://user-images.githubusercontent.com/42329930/225175000-ad31e266-7d18-41d3-966d-afa1a617c3a1.png)
+ 
+
+## ATT
+- Attribute protocol: used to determine how data is represented and exchanged between Server and client
+- client vs server architecture
+- how data is exchanged: server has data, client wants the data
+  - ![image](https://user-images.githubusercontent.com/42329930/225175290-cb907808-4d49-4088-bec4-e6f93aa12fa7.png)
+  - ![image](https://user-images.githubusercontent.com/42329930/225175346-655b428c-d005-4ccc-ab92-c377a19056ca.png)
+
+
+## GATT (Genertic attribute profile):
+- defines concepts of:
+  - service group
+  - characteristic group
+  - declarations
+  - descriptors
 
 
 
+## GAP (Genertic Access profile):
+- used to make your device visible to outside world
+- Profile roles:
+  - Broadcaster, observer
+  - peipheral, central  
+- Defines std ways to devices to connect
+  - discoverable, connectable, bonding    
+- how to send data:
+  - uses advertising packets
 
+![image](https://user-images.githubusercontent.com/42329930/225177747-8fc16e83-0808-4eaf-af23-a928ea44d5df.png)
+![image](https://user-images.githubusercontent.com/42329930/225177805-05d3dd41-c195-45d1-b791-913ff4c00882.png)
 
 
 
