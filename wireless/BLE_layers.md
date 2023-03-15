@@ -57,7 +57,7 @@ Link layer (LL) state machine:
   - ![image](https://user-images.githubusercontent.com/42329930/225175346-655b428c-d005-4ccc-ab92-c377a19056ca.png)
 
 
-## GATT (Genertic attribute profile):
+## GATT (Generic attribute profile):
 - defines concepts of:
   - service group
   - characteristic group
@@ -78,6 +78,14 @@ Link layer (LL) state machine:
 
 ![image](https://user-images.githubusercontent.com/42329930/225177747-8fc16e83-0808-4eaf-af23-a928ea44d5df.png)
 ![image](https://user-images.githubusercontent.com/42329930/225177805-05d3dd41-c195-45d1-b791-913ff4c00882.png)
+![image](https://user-images.githubusercontent.com/42329930/225178217-18714d0e-ded8-4405-9965-918a83a5d358.png)
+??
+Beacons = non connectible??
+
+
+## Application layer:
+- can make various designs using BLE services
+- compatibility can be improved by using the BLE standard.
 
 
 
