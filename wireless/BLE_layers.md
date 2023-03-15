@@ -27,3 +27,27 @@
   - Extended advertising: ?? used to be 55 packets now it's 20-55 packets??
 - 
 
+![image](https://user-images.githubusercontent.com/42329930/225173358-b5cbfd10-880e-454b-aad1-ba7939cb094e.png)
+
+Link layer (LL) state machine: 
+![image](https://user-images.githubusercontent.com/42329930/225173829-a34ec3b8-89b9-42a4-99d8-6461f7d62b01.png)
+
+
+## L2CAP
+- logical link control and adaptation protocol
+- provides logical channels
+- multiplexed over one or more logical channels.
+
+
+
+
+
+
+
+
+
+
+
+
+use this to shrink images to correct size:
+<img src="https://user-images.githubusercontent.com/42329930/219544055-1ae474f8-1950-4d32-8dec-5c100b24f336.png" width="300">
