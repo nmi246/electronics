@@ -1,16 +1,18 @@
 
+<!-- ############################################################################################################ -->
+## Connectivity 
 
-## Connectivity ----------------------------------
-### ULP-UART
-
-
-
-### CAN-FD
+#### ULP-UART
 
 
 
+#### CAN-FD
 
-## Math Accelerators ------------------------------
+
+
+<!-- ############################################################################################################ -->
+## Math Accelerators
+
 #### CORDIC (COordinate Rotation DIgital Computer)
 - https://www.st.com/resource/en/product_training/STM32G4-Peripheral-Cordic_Coprocessor_CORDIC.pdf
 - The CORDIC co-processor provides hardware acceleration of certain mathematical functions, notably trigonometric, commonly used in motor control, metering, signal processing and many other applications
@@ -28,9 +30,7 @@
 
 ![image](https://user-images.githubusercontent.com/42329930/226210394-061ec942-4043-4420-a0a7-a6965499161c.png)
   
-  
-  
-  
+
 #### FMAC (Filter Math ACcelerator)
 https://www.st.com/resource/en/product_training/STM32G4-Peripheral-Filter_Math_Accelerator_FMAC.pdf
 - The FMAC unit is built around a fixed point multiplier and accumulator (MAC).
@@ -42,6 +42,10 @@ https://www.st.com/resource/en/product_training/STM32G4-Peripheral-Filter_Math_A
 - ![image](https://user-images.githubusercontent.com/42329930/226210667-fbc5a00b-0210-4903-aeef-91be85b154b6.png)
 Features:
 - ![image](https://user-images.githubusercontent.com/42329930/226210692-cff2e822-db19-4ee9-acfc-751bf888113a.png)
+
+
+
+<!-- ############################################################################################################ -->
 
 
 
