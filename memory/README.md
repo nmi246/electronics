@@ -28,5 +28,7 @@
 - [AS4C32M16D3L-12BCN, from Alliance Memory, $5.51 USD /pc from Digikey](https://www.digikey.com/en/products/detail/alliance-memory-inc/AS4C32M16D3L-12BCN/7807069)
   - Datasheet: https://media.digikey.com/pdf/Data%20Sheets/Alliance%20Memory%20PDFs/AS4C32M16D3L-12BIN,%2012BCN.pdf
   - SDRAM DDR3 Memory IC 512Mbit Parallel 800 MHz 20ns 96-FBGA (8x13)
+  - ![image](https://user-images.githubusercontent.com/42329930/226460073-090c3b88-ae3c-4f02-9e13-79c655f5743e.png)
+
   
 Alliance Memory DDR3 SDRAM Portfolio: https://www.alliancememory.com/products/double-data-rate-3-ddr3/
