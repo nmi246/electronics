@@ -46,10 +46,14 @@ Features:
 
 
 <!-- ############################################################################################################ -->
+## Memory interfaces
 
-
-
-
+#### Octo-SPI with OTF Decrypt (on-the-fly decryption)
+- The OTFDEC engine allows on-the-fly decryption of the Arm AXI or AHB traffic based on the read request address information. In addition, OTFDEC can encrypt code to be stored in an external Octo-SPI memory using a proprietary protection layer over the advanced encryption standard (AES) in counter mode.
+- App note: https://www.st.com/resource/en/application_note/an5281-how-to-use-otfdec-for-encryptiondecryption-in-trusted-environment-on-stm32h7bxxx-and-stm32h73xx-microcontrollers-stmicroelectronics.pdf
+  - Explains how to use the OTFDEC engine in a trusted environment using the STM32H7Bxxx and STM32H73xx microcontrollers:
+    - To decrypt on-the-fly data or code located in external Octo-SPI memories used in memory mapped mode that has been encrypted using a standard AES-128 counter mode part of the AES hardware accelerator or the proprietary protection layer over the standard AES-128 in counter mode part of the OTFDEC RSS services. 
+    - To encrypt binary image using OTFDEC RSS services.
 
 
 
