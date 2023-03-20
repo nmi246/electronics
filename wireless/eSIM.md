@@ -14,7 +14,7 @@ INF IoT SIM option: https://www.infineon.com/cms/en/product/security-smart-card-
 
 
 
-## NVT4558HK
+## NVT4558HK, from NXP
 - SIM Card Interface Level Translator with EMI Filter and ESD Protection
 - Datasheet: https://www.nxp.com/docs/en/data-sheet/NVT4558DS.pdf
 - App note: https://www.nxp.com/docs/en/application-note/AN13158.pdf
