@@ -44,7 +44,10 @@
 ![image](https://user-images.githubusercontent.com/42329930/224580066-312084e4-1b88-440b-92bc-c60fcb0f7ee9.png)
 
 
-
+## RS-485
+- https://www.cuidevices.com/blog/rs-485-serial-interface-explained#:~:text=motion%20control%20equipment.-,What%20is%20RS%2D485%3F,devices%20on%20the%20same%20bus.
+- Host sends command through RS-485 bus and slave responds
+ - ![image](https://user-images.githubusercontent.com/42329930/227396156-5824705a-c095-486d-8c81-b90b9db51d81.png)
 
 
 
