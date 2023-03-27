@@ -19,4 +19,10 @@ STM32 Nucleo expansion boards - motor control selection guide: https://www.st.co
 
 
 
-
+## Stepper motor:
+- wikipedia: https://en.wikipedia.org/wiki/Stepper_motor
+- stepper motor driver + driver waveforms: 
+  - https://blog.poscope.com/stepper-motor-driver/
+  - https://www.youtube.com/watch?v=9ECnh0UOr6g&list=PLgSpn2wTDbU-hYNIvC72Bzp6XcKKeT-09&index=2&t=584s&ab_channel=welcomehelloJ
+- how stepper motor works: https://www.youtube.com/watch?v=eyqwLiowZiU&list=PLgSpn2wTDbU-hYNIvC72Bzp6XcKKeT-09&index=8
+- Arduino and Stepper Motor Configurations: https://docs.arduino.cc/learn/electronics/stepper-motors
