@@ -48,4 +48,4 @@
 
 
 use to resize images:
-<img src="https://user-images.githubusercontent.com/42329930/220493933-c4e8bec7-2500-482d-b108-9dab599dfd1f.png" width="200">
+<img src="image.png" width="200">
