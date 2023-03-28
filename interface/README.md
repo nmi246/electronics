@@ -51,3 +51,12 @@
 
 
 
+## Logic level translators
+- [SN74LV1T34DCKR]()
+
+
+## IO Expander ICs
+- Diodes Inc PI4IOE5V9555LEX
+- Nexperia NCA9555PW
+- Texas Instruments TCA9555PWR
+
