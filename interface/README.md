@@ -45,6 +45,7 @@
 
 
 ## RS-485
+- RS-485 does not require the use of a specific bus voltage, but instead specifies the minimum required differential voltage (difference between signal A and B). The bus requires a minimum differential voltage of **+/- 200 mV** at the receiver and generally all RS-485 devices will have the same input voltage range despite transmitting at various voltages. This means that any RS-485 device is able to receive the voltage range of **-7 to 12 V**, so an engineer can design the host system with any transmission voltage in that range. This allows designers to create RS-485 systems using their existing board voltages.
 - https://www.cuidevices.com/blog/rs-485-serial-interface-explained#:~:text=motion%20control%20equipment.-,What%20is%20RS%2D485%3F,devices%20on%20the%20same%20bus.
 - Host sends command through RS-485 bus and slave responds
  - ![image](https://user-images.githubusercontent.com/42329930/227396156-5824705a-c095-486d-8c81-b90b9db51d81.png)
