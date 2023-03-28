@@ -35,7 +35,17 @@
 - [LC709209FXE-01TBG, ON Semi, $2.75USD /pc at Digikey](https://www.digikey.com/en/products/detail/onsemi/LC709209FXE-01TBG/17053336)
   - Battery Fuel Gauge IC Lithium Ion/Polymer 12-WLCSP (1.48x1.91)
   - datasheet: https://www.onsemi.com/download/data-sheet/pdf/lc709209f-d.pdf 
-  - ![image](https://user-images.githubusercontent.com/42329930/228121803-5f68e76a-51d7-46e2-b4e8-f494870b4728.png)
+  - <img src="https://user-images.githubusercontent.com/42329930/228121803-5f68e76a-51d7-46e2-b4e8-f494870b4728.png" width="200">
   - Application circuit example (Temperature is measure by T_sense pin):
-  - ![image](https://user-images.githubusercontent.com/42329930/228122269-9fa09721-d9b0-4bef-984f-ea0997ad1bcf.png)
+  - <img src="https://user-images.githubusercontent.com/42329930/228122269-9fa09721-d9b0-4bef-984f-ea0997ad1bcf.png" width="200">
 
+
+
+
+
+
+
+
+
+use to resize images:
+<img src="https://user-images.githubusercontent.com/42329930/220493933-c4e8bec7-2500-482d-b108-9dab599dfd1f.png" width="200">
