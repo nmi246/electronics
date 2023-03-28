@@ -38,10 +38,10 @@
   - <img src="https://user-images.githubusercontent.com/42329930/228121803-5f68e76a-51d7-46e2-b4e8-f494870b4728.png" width="200">
   - Application circuit example (Temperature is measure by T_sense pin):
   - <img src="https://user-images.githubusercontent.com/42329930/228122269-9fa09721-d9b0-4bef-984f-ea0997ad1bcf.png" width="700">
-
-
-
-
+  
+  
+  
+  
 
 
 
