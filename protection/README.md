@@ -1,5 +1,11 @@
 # Protection circuits, etc
 
+## TVS Diodes for RS485 protection:
+- [SM712.TCT, Semtech]()
+- [SM712-02HTG, Littlefuse]()     
+- [CDSOT23-SM712, Bourns]()
+- [SM712, SMC Diodes]()
+- [SM712, MCC]() 
 
 
 ## Battery protection
