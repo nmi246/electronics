@@ -20,6 +20,7 @@
 #### SLA (Sealed Lead Acid):
  
 
+
 ## Solar battery chargers:
 - [SPV1040](https://www.st.com/en/power-management/spv1040.html#documentation)
   - High efficiency solar battery charger with embedded MPPT
@@ -30,3 +31,11 @@
 ## Battery protection IC:
 - [AP9101C](https://www.diodes.com/assets/Datasheets/AP9101C.pdf)
   
+## Battery Fuel Guage
+- [LC709209FXE-01TBG, ON Semi, $2.75USD /pc at Digikey](https://www.digikey.com/en/products/detail/onsemi/LC709209FXE-01TBG/17053336)
+  - Battery Fuel Gauge IC Lithium Ion/Polymer 12-WLCSP (1.48x1.91)
+  - datasheet: https://www.onsemi.com/download/data-sheet/pdf/lc709209f-d.pdf 
+  - ![image](https://user-images.githubusercontent.com/42329930/228121803-5f68e76a-51d7-46e2-b4e8-f494870b4728.png)
+  - Application circuit example (Temperature is measure by T_sense pin):
+  - ![image](https://user-images.githubusercontent.com/42329930/228122269-9fa09721-d9b0-4bef-984f-ea0997ad1bcf.png)
+
