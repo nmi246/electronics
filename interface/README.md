@@ -56,7 +56,10 @@
 
 
 ## IO Expander ICs
-- Diodes Inc PI4IOE5V9555LEX
-- Nexperia NCA9555PW
-- Texas Instruments TCA9555PWR
+- [PI4IOE5V9555LEX, Diodes, $1.61USD /pc at Digikey ](https://www.diodes.com/assets/Datasheets/PI4IOE5V9555.pdf) 
+- [NCA9555PW, Nexperia, $1.26USD /pc at Digikey](https://assets.nexperia.com/documents/data-sheet/NCA9555.pdf)
+- [TCA9555PWR, Texas Instruments, $1.46USD /pc at Digikey](https://www.ti.com/lit/ds/symlink/tca9555.pdf?ts=1679966171996&ref_url=https%253A%252F%252Fwww.ti.com%252Fproduct%252FTCA9555%252Fpart-details%252FTCA9555PWR)
+- [XRA1201IL24TR-F, Maxlinear](https://assets.maxlinear.com/web/documents/xra1201.pdf)
+- [PCA9535CHF,118, NXP, ](https://www.nxp.com/docs/en/data-sheet/PCA9535_PCA9535CDS.pdf)
+
 
