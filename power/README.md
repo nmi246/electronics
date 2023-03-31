@@ -16,6 +16,9 @@
 
 ## Wireless charging:
 - [Wireless charging, Infineon, Application note and relevant products](https://www.infineon.com/cms/en/applications/solutions/adapters-and-chargers/wireless-charging/#)
+- https://www.st.com/content/st_com/en/campaigns/wireless-battery-charging-solutions.html
+- ![image](https://user-images.githubusercontent.com/42329930/228996144-a746a701-02d0-459f-b381-21d9694c5fbd.png)
+
 
 
 ## MOSFET gate driver
