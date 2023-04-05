@@ -1,2 +1,4 @@
 
-hkkjkhj
+FPGA vs CPLD:
+
+GreenPak from Renesas:
