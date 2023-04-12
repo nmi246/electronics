@@ -53,4 +53,17 @@ A PAR sensor reports the Photosynthetic Photon Flux Density (PPFD), which corres
   - 2 channel Proximity/Touch controller with simple digital outputs.
 <img src="https://user-images.githubusercontent.com/42329930/220481128-82fefdd9-4b44-45d0-b9c8-7bdf2002d6d9.png" width="200">
 
+- [AT42QT1010-TSHR, from Microchip, $0.82 USD /pc at Digikey](https://www.digikey.com/en/products/detail/microchip-technology/AT42QT1010-TSHR/2268866)
+  - datasheet: http://ww1.microchip.com/downloads/en/DeviceDoc/40001946A.pdf
+  - capactive touch
+  ![image](https://user-images.githubusercontent.com/42329930/231324567-1092d55b-11f8-4442-9fff-9edacf4f5808.png)
+
+
+## 
+
+
+
+
+
+
 
