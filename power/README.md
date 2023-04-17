@@ -38,4 +38,11 @@
   - It is designed with a negative temperature coefficient to protect LEDs from thermal runaway at extreme voltages and currents.
 ![image](https://user-images.githubusercontent.com/42329930/214991627-ba3af8fb-4edb-4906-8ea9-b5fb744fb879.png)
 
+## Low Power PMIC
+- [nPM1100, from Nordic, $2.5 USD ea at Digikey](https://www.digikey.com/en/products/detail/nordic-semiconductor-asa/NPM1100-QDAA-R/18069437)
+  - datasheet: https://infocenter.nordicsemi.com/pdf/nPM1100_PS_v1.2.pdf
+  - ![image](https://user-images.githubusercontent.com/42329930/232362454-978c4c72-06ed-427d-aad8-bdae5858158b.png)
+ 
+- [DA9072, from Renesas, ]() 
+
 
