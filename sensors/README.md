@@ -59,7 +59,12 @@ A PAR sensor reports the Photosynthetic Photon Flux Density (PPFD), which corres
   - <img src="https://user-images.githubusercontent.com/42329930/231324567-1092d55b-11f8-4442-9fff-9edacf4f5808.png" width="200">
 
 
-## 
+## IR reciever sensors / Phototransistors 
+- 1541201NC3060, https://www.digikey.co.nz/en/products/detail/w%C3%BCrth-elektronik/1541201NC3060/9857963
+  - ![image](https://user-images.githubusercontent.com/42329930/232366155-94903bb8-ee4f-4b5c-a815-25483403f1c2.png)
+
+- APTD3216P3C-P22, https://www.digikey.co.nz/en/products/detail/kingbright/APTD3216P3C-P22/8591563
+
 
 
 
