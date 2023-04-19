@@ -34,6 +34,8 @@
 ## Ethernet PHY
 - [KSZ8091RNA, from Microchip, $1.64 for 1x on Digikey](https://ww1.microchip.com/downloads/en/DeviceDoc/00002298A.pdf)
 ![image](https://user-images.githubusercontent.com/42329930/218876790-1b7400da-c0dd-49f4-8566-3dbbd974f372.png)
+- Ethernet circuit design: 
+ - Implementing an Ethernet Interface with the MC9S12NE64: https://www.nxp.com/docs/en/application-note/AN2759.pdf
 
 ## Ethernet Switch
 -	[KSZ9896CTXC from Microchip, $13.47 USD /pc from Digikey](https://www.digikey.com/en/products/detail/microchip-technology/KSZ9896CTXC/7164761)
