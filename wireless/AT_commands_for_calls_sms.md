@@ -8,9 +8,22 @@ AT commands manual for: LARA-L6 / LARA-R6 series Single or multi-mode LTE Cat 4 
 https://content.u-blox.com/sites/default/files/LARA-R6_ATCommands_UBX-21046719.pdf
 
 Check status, network info, device IMEI, RAT (2G, 3G, 4G, 5G) , etc. 
-ATI9
-ATI3
-AT!GSTATUS?
+- ATI9
+- ATI3
+- AT!GSTATUS?
+- AT+CCID
+- AT+CIMI
+- AT!OPENLOCK? - unlock level 3 security ??
+- at!unlock="A710"                                             //unlock level 3 security
+
+MISC:
+- at!fmpath=/nv/item_files/modem/mmode
+-at!fmr?sms_domain_pref
+- !FMR: sms_domain_pref read                                 //NV item for SMS over IMS is set disabled
+- at!fmw=sms_domain_pref,0,1                                 //Enabled SMS over IMS
+- at!fmr?sms_domain_pref                                     //Recheck
+- at!reset                                                   //Reset to take effect
+
 
 AT+CPWROFF - power off
 
