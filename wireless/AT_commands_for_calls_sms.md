@@ -15,6 +15,23 @@ Check status, network info, device IMEI, RAT (2G, 3G, 4G, 5G) , etc.
 - AT+CIMI
 - AT!OPENLOCK? - unlock level 3 security ??
 - at!unlock="A710"                                             //unlock level 3 security
+More on this:
+- ATI
+- ATI8
+- ATI9
+- AT!SKU?
+- AT!PRIID?
+- AT!PACKAGE?
+- AT+COPS?
+- AT!SELRAT?
+- AT!BAND?
+- AT+CGDCONT?
+- at!gstatus
+- at+cscs="GSM"
+- at+cscs?
+- at+cusd=1,"*33*0000#",15  // Enable call barring
+- AT!ENTERCND="A710"        //unlock level __ security
+
 
 MISC:
 - at!fmpath=/nv/item_files/modem/mmode
