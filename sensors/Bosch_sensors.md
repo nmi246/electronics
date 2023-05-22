@@ -41,5 +41,7 @@
   
    
 ![image](https://github.com/nmi246/electronics/assets/42329930/71e320a2-f3e4-43b5-8649-aa1bf2c6676c)
+  
+![image](https://github.com/nmi246/electronics/assets/42329930/3dab19db-1e82-4258-8a8e-08815dffb26e)
 
     
