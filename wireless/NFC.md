@@ -15,7 +15,7 @@ EMVCo reference design for the ST25R3916B high performance NFC universal device
 Discovery kit for the ST25R3916B high performance NFC universal device and EMVCo reader
 - The STEVAL-25R3916B kit allows the user to evaluate the features and capabilities of the ST25R devices, which are a series of high performance HF readers.
 - https://www.st.com/en/evaluation-tools/steval-25r3916b.html
-- ![image](https://github.com/nmi246/electronics/assets/42329930/7f7b491d-630f-4561-ab9d-f0d81e484b33)
+- ![image](https://github.com/nmi246/electronics/assets/42329930/505d6f7c-547e-43da-b47d-51da2ea40fd1)
 
 
 ### STSW-ST25RFAL002
