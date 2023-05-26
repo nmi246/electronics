@@ -1,3 +1,35 @@
+
+ST25 NFC / RFID Tags & Readers:
+
+https://www.st.com/en/nfc/st25-nfc-rfid-tags-readers.html
+
+### NFC/RFID Product Portfolio:
+ST25T NFC / RFID tags: https://www.st.com/en/nfc/st25-nfc-rfid-tags.html
+- ![image](https://github.com/nmi246/electronics/assets/42329930/6bc64ba0-ce60-4f6b-ae1c-cf2d26df6f8c)
+ST25D Dynamic NFC tags: https://www.st.com/en/nfc/st25-dynamic-nfc-tags.html
+- ![image](https://github.com/nmi246/electronics/assets/42329930/730a33fe-b9c2-447c-ad20-26c72eae1f85)
+ST25R NFC / RFID readers: https://www.st.com/en/nfc/st25-nfc-rfid-readers.html
+- ![image](https://github.com/nmi246/electronics/assets/42329930/3fbbdd29-b0d0-487c-8c47-9bad0fdf6032)
+
+
+### Tools:
+- Antenna Design tool: https://eds.st.com/antenna/#/
+- Tuning circuit tool: https://eds.st.com/nfc-tuningcircuit/
+- UHF Link budget tool: https://eds.st.com/uhf-link-budget/ 
+
+
+### Evaluation boards:
+- X-NUCLEO: https://www.st.com/en/evaluation-tools/st25-nfc-rfid-eval-boards/products.html?querycriteria=productId=LN1408$$1=*nucleo
+- EVAL boards: https://www.st.com/en/evaluation-tools/st25-nfc-rfid-eval-boards/products.html
+
+### Brochure: 
+https://www.st.com/resource/en/brochure/nfc_solutions_from_st.pdf
+
+***************************************************************************************************************************************************
+  
+  
+  
+  
 ST NFC reader
 ST25R3916B
 https://www.st.com/en/nfc/st25r3916b.html
