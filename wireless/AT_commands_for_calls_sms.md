@@ -88,7 +88,7 @@ Block incoming/outgoing calls, Vodafone: https://www.vodafone.co.nz/faq/block-in
 - AT+CLCK="AI",2		           # check status. If call barring is not active, response will be: +CLCK: 0,255
 - AT+clck="AI",1,"0000"	     # Enable call barring. Password is either "0000" or "1234"
 - AT+CLCK="AI",2		           # Check status: If call barring is active, response will be: +CLCK: 1,1
- - If active: Incoming/outgoing calls should be disabled.   
+  - If active: Incoming/outgoing calls should be disabled.   
 - AT+CLCK="AI",0,"1234"	     # Disable call barring
 - AT+CLCK="AI",2		           # Check status. If call barring is disabled, response will be: +CLCK: 0,255
   - Incoming/outgoing calls should be enabled.   
@@ -100,8 +100,8 @@ Block incoming/outgoing calls, Vodafone: https://www.vodafone.co.nz/faq/block-in
 - AT+CCWA = 0 - disable call waiting??
 - AT+CCWA = 1 - enable call waiting ?? 
 - AT+CHLD = 2 ?? hold call 1, go on call 2??
-- - AT+CHLD = 1 ?? hold call 2, go to call 1?
-- - AT+CHLD = 3 ??
+  - AT+CHLD = 1 ?? hold call 2, go to call 1?
+  - AT+CHLD = 3 ??
 
 
 
