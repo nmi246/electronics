@@ -85,12 +85,12 @@ Block incoming/outgoing calls, Vodafone: https://www.vodafone.co.nz/faq/block-in
 
 
 ## Call Barring from Sierra Wireless RC7620 module (on Vodafone network):
-- AT+CLCK="AI",2		# check status. If call barring is not active, response will be: +CLCK: 0,255
-- AT+clck="AI",1,"0000"	# Enable call barring. Password is either "0000" or "1234"
-- AT+CLCK="AI",2		# Check status: If call barring is active, response will be: +CLCK: 1,1
+- AT+CLCK="AI",2		           # check status. If call barring is not active, response will be: +CLCK: 0,255
+- AT+clck="AI",1,"0000"	     # Enable call barring. Password is either "0000" or "1234"
+- AT+CLCK="AI",2		           # Check status: If call barring is active, response will be: +CLCK: 1,1
  - If active: Incoming/outgoing calls should be disabled.   
-- AT+CLCK="AI",0,"1234"	# Disable call barring
-- AT+CLCK="AI",2		# Check status. If call barring is disabled, response will be: +CLCK: 0,255
+- AT+CLCK="AI",0,"1234"	     # Disable call barring
+- AT+CLCK="AI",2		           # Check status. If call barring is disabled, response will be: +CLCK: 0,255
  - Incoming/outgoing calls should be enabled.   
 
 
