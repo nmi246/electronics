@@ -93,7 +93,7 @@ Block incoming/outgoing calls, Vodafone: https://www.vodafone.co.nz/faq/block-in
 - AT+CLCK="AI",2		           # Check status. If call barring is disabled, response will be: +CLCK: 0,255
   - Incoming/outgoing calls should be enabled.   
 
-
+NB: Use "AO" for OUTGOING call barring, and "AI" for INCOMING call barring
 
 ## Call waiting:
 - AT+CCWA?
