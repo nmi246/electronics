@@ -45,4 +45,10 @@
  
 - [DA9072, from Renesas, ]() 
 
+## 5V, 4A Step-Down DC/DC Mini Module with Integrated Inductor
+- RAA210040 from Renesas
+- 5V, 4A Step-Down DC/DC Mini Module with Integrated Inductor
+- ![image](https://github.com/nmi246/electronics/assets/42329930/92111922-ad86-4dcf-81df-0ed8acb6a2c4)
+
+
 
