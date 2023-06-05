@@ -1,5 +1,9 @@
 # Protection circuits, etc
 
+Application Handbooks:
+- https://efficiencywins.nexperia.com/efficient-products/nexperia-design-engineers-guides.html
+
+
 ## TVS Diodes for RS485 protection:
 - [SM712.TCT, Semtech]()
 - [SM712-02HTG, Littlefuse]()     
