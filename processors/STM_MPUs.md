@@ -29,7 +29,6 @@ STM32MP13x:
 ## STPMIC1: 
 ![image](https://github.com/nmi246/electronics/assets/42329930/4e9ba670-e733-4e4b-8fb5-ecea17228bc0)
 
-
 ![image](https://github.com/nmi246/electronics/assets/42329930/5c938593-fad6-4211-b8c2-d71f6dfd44db)
 
 
@@ -37,5 +36,17 @@ STM32MP13x:
 
 ## OpenSTLinux: 
 ![image](https://github.com/nmi246/electronics/assets/42329930/59cfecd9-1f18-44cb-8190-1bd0dab41d91)
+
+
+## X-Linux-AI
+![image](https://github.com/nmi246/electronics/assets/42329930/0d624d18-c563-43c3-a783-2497dcaa7041)
+
+## QT Graphics solution:
+
+
+
+## Software tools
+![image](https://github.com/nmi246/electronics/assets/42329930/7e5e0724-7ab5-4ae0-b15a-bfb33d9f56c7)
+
 
 
