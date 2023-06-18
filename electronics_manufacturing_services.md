@@ -9,6 +9,11 @@ SRX Global
 
 GPC
 
+PEC
+AuCom
+
+
+
 
 Questions: 
 - how do EMSs quote cost: number of parts, type of parts (SMD, PTH), type of soldier, cables, connectors, time per device, labour ??
