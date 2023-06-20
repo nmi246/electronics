@@ -64,9 +64,10 @@ Sending and Receiving voice calls:
 
 
 ## Change RAT (radio access network):
-- AT+KSRAT=2 --> Lock to 3G only
-- AT+KSRAT=5 --> Lock to 4G only
-- AT+KSRAT=0 --> Auto select
+- AT+KSRAT=1 --> Lock to 2G (GSM only)
+- AT+KSRAT=2 --> Lock to 3G (UMTS only)
+- AT+KSRAT=5 --> Lock to 4G (LTE only)
+- AT+KSRAT=0 --> All RATs, auto select
 
 
 
