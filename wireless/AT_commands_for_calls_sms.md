@@ -77,6 +77,9 @@ Vodafone call forwarding instructions: https://www.vodafone.co.nz/faq/forward-a-
 - AT+CCFC=0,3,"phone number"
 - AT+CCFC=0,3,"+64220974881",145  - forward receiving calls to +64220974881 (interntional PH# format)
 - AT+CCFC=0,3,"0220974881" - forward receiving calls to 0220974881 (local PH# format)
+- AT+CCFC=2,2           # query status
+- AT+CCFC=4,0           # all call barring, disable
+
  
 
 ## Call Barring from iPhone (on Vodafone network):
