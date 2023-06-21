@@ -48,7 +48,7 @@ AT+CFUN=0 - tx/rx off
 AT+CFUN=1 - tx/rx on
 
 
-Sending and Receiving voice calls:
+## Send and Receive voice calls:
 - ATD0220974881 - send a voice call
 - ATD0220974881,2 - send a voice call to a number with extension = 2
 - ATA - pick up receiving call
@@ -108,12 +108,18 @@ NB: Use "AO" for OUTGOING call barring, and "AI" for INCOMING call barring
   - AT+CHLD = 3 ??
 
 
+## Set Voicemail Number (example):
+set: AT+CSVM=1,"+1234567890",145
+read: AT+CSVM?  # check if voice mail is setup, and what the voicemail number is.
+cancel voicemail: AT+CSVM=0  # this doesn't work
+note: If the parameter <mode> is set to 0, the remaining parameters are ignored.
 
-AT+CNUM - ??
-AT+WDDM - ??
-AT+VTS=5 - ??
-AT+VTS=4 - ??
 
+## MISC
+- AT+CNUM - ??
+- AT+WDDM - ??
+- AT+VTS=5 - ??
+- AT+VTS=4 - ??
 
 
 
