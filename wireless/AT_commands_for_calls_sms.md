@@ -50,7 +50,7 @@ AT+CFUN=1 - tx/rx on
 
 ## Send and Receive voice calls:
 - ATD0220974881 - make a voice call
-  - AT+VTS=<DTMF>    # send indivual characters for selecting various options. (DTMF: 0-9, #, *, A-D)
+  - AT+VTS=DTMF    # send indivual characters for selecting various options. (DTMF: 0-9, #, *, A-D)
     - e.g.: AT+VTS=1
 - ATD0220974881,2 - send a voice call to a number with extension = 2
 - ATA - pick up receiving call
@@ -111,7 +111,7 @@ NB: Use "AO" for OUTGOING call barring, and "AI" for INCOMING call barring
 
 ## Listen to voice mail:
 - ATD021700700;  # the voice mail number for vodafone. 
-- AT+VTS=<DTMF>    # send indivual characters for selecting various options. (DTMF: 0-9, #, *, A-D)
+- AT+VTS=DTMF    # send indivual characters for selecting various options. (DTMF: 0-9, #, *, A-D)
  - e.g.: AT+VTS=1
 - ATD1;          # number for calling voice mail on Ublox modems (if supported)
 
