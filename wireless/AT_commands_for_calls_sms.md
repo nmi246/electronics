@@ -33,7 +33,7 @@ More on this:
 - AT!ENTERCND="A710"        //unlock level __ security
 
 
-MISC:
+## MISC:
 - at!fmpath=/nv/item_files/modem/mmode
 -at!fmr?sms_domain_pref
 - !FMR: sms_domain_pref read                                 //NV item for SMS over IMS is set disabled
@@ -49,7 +49,9 @@ AT+CFUN=1 - tx/rx on
 
 
 ## Send and Receive voice calls:
-- ATD0220974881 - send a voice call
+- ATD0220974881 - make a voice call
+  - AT+VTS=<DTMF>    # send indivual characters for selecting various options. (DTMF: 0-9, #, *, A-D)
+    - e.g.: AT+VTS=1
 - ATD0220974881,2 - send a voice call to a number with extension = 2
 - ATA - pick up receiving call
 - ATH - Halt/decline/stop incoming or outgoing call
@@ -107,13 +109,18 @@ NB: Use "AO" for OUTGOING call barring, and "AI" for INCOMING call barring
   - AT+CHLD = 1 ?? hold call 2, go to call 1?
   - AT+CHLD = 3 ??
 
+## Listen to voice mail:
+- ATD021700700;  # the voice mail number for vodafone. 
+- AT+VTS=<DTMF>    # send indivual characters for selecting various options. (DTMF: 0-9, #, *, A-D)
+ - e.g.: AT+VTS=1
+- ATD1;          # number for calling voice mail on Ublox modems (if supported)
+
 
 ## Set Voicemail Number (example):
 set: AT+CSVM=1,"+1234567890",145
 read: AT+CSVM?  # check if voice mail is setup, and what the voicemail number is.
 cancel voicemail: AT+CSVM=0  # this doesn't work
 note: If the parameter <mode> is set to 0, the remaining parameters are ignored.
-
 
 ## MISC
 - AT+CNUM - ??
