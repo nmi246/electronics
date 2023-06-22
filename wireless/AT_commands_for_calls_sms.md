@@ -101,13 +101,13 @@ Block incoming/outgoing calls, Vodafone: https://www.vodafone.co.nz/faq/block-in
 
 NB: Use "AO" for OUTGOING call barring, and "AI" for INCOMING call barring
 
-## Call waiting:
-- AT+CCWA?
-- AT+CCWA = 0 - disable call waiting??
-- AT+CCWA = 1 - enable call waiting ?? 
-- AT+CHLD = 2 ?? hold call 1, go on call 2??
-  - AT+CHLD = 1 ?? hold call 2, go to call 1?
-  - AT+CHLD = 3 ??
+## Call waiting, holding, conferencing:
+- AT+CCWA?         # check if call waiting is enabled: 0=disabled, 1=enabled. 
+- AT+CCWA=0      # disable call waiting
+- AT+CCWA=1      # enable call waiting 
+- AT+CHLD=2      # places all active calls (if exist) on hold and accepts the other call (held or waiting, if exist)
+- AT+CHLD=3      # adds a held call to the conversation; call conferencing.
+- AT+CHLD=?      # lists all supported options. 
 
 ## Listen to voice mail:
 - ATD021700700;  # the voice mail number for vodafone. 
