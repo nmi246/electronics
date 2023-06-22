@@ -63,10 +63,19 @@ AT+CFUN=1 - tx/rx on
   - example: ATD#31#0220974881;  # hides caller ID for this particular call only.    
 
 ## Sending and Receiving SMS text messages:
-- AT +CMGF = 1
-- AT+CMGS="0220974881"  - send SMS text message. When finished writing Message termintate text message with CTRL+Z
-- AT+CMGR = 39 ?? read SMS send to your device??
-- AT+CMGR = 24 ?? 
+- AT+CMGF=1      # Indicates to the MT which input/output format of messages shall be used. 1 = text mode. 0 = PDU mode (default).
+  - make sure AT+CMGF=1 before sending messages. 
+- AT+CMGS="0220974881"    # **send** SMS text message. When finished writing Message termintate text message with CTRL+Z
+- AT+CMGR=n               # **read** the text message stored at index n.
+  - example: AT+CMGR=5    # reads the message at index 5. 
+- The +CMT URC is issued on the reception of an SMS messages.
+- List messages:
+  - AT+CMGL="ALL"    # lists all messages.
+    - AT+CMGL=?      # list all options: ("REC UNREAD","REC READ","STO UNSENT","STO SENT","ALL")
+- Delete message:
+  - AT+CMGD=n               # delete message stored at index n. (0-9 on RC7620). 
+    - example: AT+CMGD=5    # delete message at index=5.   
+  - AT+CMGD=?               # shows all the index available, and the delete options (e.g., delete only unread, etc.).  
 
 
 ## Change RAT (radio access network):
@@ -126,6 +135,26 @@ set: AT+CSVM=1,"+1234567890",145
 read: AT+CSVM?  # check if voice mail is setup, and what the voicemail number is.
 cancel voicemail: AT+CSVM=0  # this doesn't work
 note: If the parameter <mode> is set to 0, the remaining parameters are ignored.
+
+## Phonebook
+- AT+CPBS          # Select phone book memory storage. **Must select a phonebook in order to store numbers**. 
+  - AT+CPBS="SM"    # selected SIM card phone book; saves numbers to SIM card. 
+- AT+CPBR          # read phone book entries
+  - AT+CPBR=3      # returns phone number at phonebook entry=3.
+  - AT+CPBR=1,4    # list entries 1 to 4. 
+  - AT+BPBR=?      # returns list of supported indexes. 
+- AT+CPBF          #
+  - AT+CPBF="Jack" # Find Jack phone number.
+  - AT+CPBF=?      # Find Jack phone number.
+- AT+CPBW          # Write to phone book entry
+  - AT+CPBW=1,"0220978888",129,"Jack"     # write to entry number 1 Jack's phone number.
+
+# Audio Interface
+- AT+CLVL=n     # set Loudspeaker volume level
+  - AT+CLVL=3   # set volume level to 3. 
+- AT+CLVL?      # returns the current volume level
+- AT+CLVL=?     # return range of settable volume; e.g.: 1-5
+
 
 ## MISC
 - AT+CNUM - ??
