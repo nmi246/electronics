@@ -57,6 +57,10 @@ AT+CFUN=1 - tx/rx on
 - ATH - Halt/decline/stop incoming or outgoing call
 - ATC+CLCC - check active call (shows phone number of current person/device you're calling)
 
+## Private call, hide caller ID: (tested on Vodafone NZ network only)
+- Permanent(?) solution: Using your phone’s keypad, hide your number by dialling #31# or show your number by dialling *31#, then enter the number you want to call.
+- One off solution: Dial #31# and then the number you're dialing (for example #31# 021 234 567). This suppresses your Caller ID for that call, and then returns to normal.
+  - example: ATD#31#0220974881;  # hides caller ID for this particular call only.    
 
 ## Sending and Receiving SMS text messages:
 - AT +CMGF = 1
