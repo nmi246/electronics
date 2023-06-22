@@ -109,7 +109,8 @@ NB: Use "AO" for OUTGOING call barring, and "AI" for INCOMING call barring
 - AT+CHLD=3      # adds a held call to the conversation; call conferencing.
 - AT+CHLD=?      # lists all supported options. 
 
-## Listen to voice mail:
+## Listen to voice mail, and setup voice mail:
+- ATD021700700;  # calling this number (specific to Vodafone NZ) will ask you to set up voice mail.
 - ATD021700700;  # the voice mail number for vodafone. 
   - AT+VTS=DTMF    # send indivual characters for selecting various options. (DTMF: 0-9, #, *, A-D)
     - e.g.: AT+VTS=1
