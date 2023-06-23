@@ -155,12 +155,20 @@ note: If the parameter <mode> is set to 0, the remaining parameters are ignored.
 - AT+CLVL?      # returns the current volume level
 - AT+CLVL=?     # return range of settable volume; e.g.: 1-5
 
+## FTP
+- UFTP
+- UFTPC
+- UFTPER
+
+## HTTP
+- UHTTP
+- UHTTPAC
+- UHTTPC
+- UHTTPER
 
 ## MISC
 - AT+CNUM - ??
 - AT+WDDM - ??
-- AT+VTS=5 - ??
-- AT+VTS=4 - ??
 
 
 
