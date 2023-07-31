@@ -58,3 +58,12 @@ Discovery kit for the ST25R3916B high performance NFC universal device and EMVCo
   - The RFAL with the same APIs is available for all ST25R devices, thus simplifying the software efforts when migrating from one device to another.
 - RF/NFC abstraction layer for ST25R3916 and its derivatives
 - https://www.st.com/en/embedded-software/stsw-st25rfal002.html
+
+## MISC
+- ST25-TAG-BAG-UI1: https://www.st.com/en/evaluation-tools/st25-tag-bag-ui1.html
+- NFC FOR LORA PROVISIONING SOLUTION: https://www.st.com/en/solutions-reference-designs/sl-ssise011302v1.html
+- BLOG: ST25 NFC READER FOR CONTACTLESS PAYMENT: https://blog.st.com/st25r3916b/
+- ST25 ecosystem:
+  - STSW-ST25012: ST25 Android app
+  - STSW-ST25IOS012: ST25 iOS app
+  - STSW-ST25DV012: ST25 discovery board firmware: https://www.st.com/en/embedded-software/stsw-st25012.html
