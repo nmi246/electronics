@@ -25,7 +25,8 @@ AES152296A00-2.66ENRS from Orient Display, $10 USD from Digikey
 - Display Type: TFT - Electronic Paper Display (EPD)
 
 
-Other MFRs:
+
+## Other MFRs:
 - DLC Display Co
 - Display visions
 - MikroElektronika
