@@ -172,6 +172,12 @@ note: If the parameter <mode> is set to 0, the remaining parameters are ignored.
 
 ## FOTA (for Sierra Wireless products)
 - use airVantage (from Sierra wireless): https://www.sierrawireless.com/iot-connectivity/iot-cloud-platform/
+- AT+WDSI=81,91
+- AT+WDSS=1,1  # connec to airvantage?
+- AT+WDSS=1,0  # close airVantage session?
+- AT+KGSN=0  # get IMEI?
+- AT+KGSN=3  # get ___ ??
+- AT+CFUN=0  # ?? 
 
 
 
