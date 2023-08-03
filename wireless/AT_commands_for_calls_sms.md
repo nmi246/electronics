@@ -170,7 +170,8 @@ note: If the parameter <mode> is set to 0, the remaining parameters are ignored.
 - AT+CNUM - ??
 - AT+WDDM - ??
 
-
+# FOTA (for Sierra Wireless products)
+- use airVantage (from Sierra wireless): https://www.sierrawireless.com/iot-connectivity/iot-cloud-platform/
 
 
 
