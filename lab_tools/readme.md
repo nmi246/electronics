@@ -1,11 +1,20 @@
-List of tools every lab should have and links to buy.
+List of tools every lab should have and links on where to buy.
 
 
-oscilloscope
-heat gun 
+measurement tools (generic):
+- digital signal oscilloscope (DSO)
+- digital multimeter
+- logic analyser
+
+measurement tools (supplimentary):
+- Nordic power profiler kit: https://www.nordicsemi.com/Products/Development-hardware/power-profiler-kit
+- 
+
+
 
 
 for soldering: 
+- heat gun
 - solder machine
 - solder wire
 - solder paste
@@ -13,6 +22,7 @@ for soldering:
 - flux paste
 - sponge (for cooling iron tip)
 - wire sponge (for wiping tip)
+- solder sucker
 
 
 mechanical:
