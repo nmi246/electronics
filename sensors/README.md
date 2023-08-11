@@ -65,7 +65,10 @@ A PAR sensor reports the Photosynthetic Photon Flux Density (PPFD), which corres
 
 - APTD3216P3C-P22, https://www.digikey.co.nz/en/products/detail/kingbright/APTD3216P3C-P22/8591563
 
-
+## Pressure sensor
+KP235XTMA1 from INF, $5 from Digikey
+https://www.digikey.com/en/products/detail/infineon-technologies/KP235XTMA1/2783495
+![image](https://github.com/nmi246/electronics/assets/42329930/a1f72035-6cd0-4ac4-952f-20cd3a72eae1)
 
 
 
