@@ -11,12 +11,14 @@ Overview:
 - short pulses: ~2ns.
 ![image](https://github.com/nmi246/electronics/assets/42329930/f6f16620-2a57-4443-aa74-a6d0a329e533)
 
-UWB transceiver ICs: 
+UWB transceiver ICs (form Microchip):
 - ATA8350:
 - ATA8352: 
 - ![image](https://github.com/nmi246/electronics/assets/42329930/690ff426-3326-4436-9d85-c7914d515860)
 - ![image](https://github.com/nmi246/electronics/assets/42329930/81f34cee-8505-45c8-96b3-e563a3aed043)
 - ATA8350 demo and eval kit: https://ww1.microchip.com/downloads/en/DeviceDoc/ATA8350-Demo-and-Evaluation-Kit-DS50003166.pdf
+- Antenna: chip antenna available from many suppliers:
+- ![image](https://github.com/nmi246/electronics/assets/42329930/7834b150-1e76-4a89-b25e-ab9c8201d926)
 
 
 RF signals:
