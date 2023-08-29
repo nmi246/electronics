@@ -28,4 +28,13 @@ Understanding current sensors
 - response time
 - Vcc
 
+Block diagram:
+![image](https://github.com/nmi246/electronics/assets/42329930/d30008ec-0346-4163-9392-bf61672a5ced)
+
+
+![image](https://github.com/nmi246/electronics/assets/42329930/ad9715e3-6839-4116-a7ee-971cdacb90c3)
+
+Differential or Fixed Mode:
+![image](https://github.com/nmi246/electronics/assets/42329930/10bbcd21-ba8c-43c6-8f68-49a2b7c0394c)
+
 
