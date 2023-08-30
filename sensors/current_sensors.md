@@ -1,5 +1,7 @@
 Understanding current sensors
 
+Current sensor simulator tool from Melexis: https://currentsensordesign.melexis.com/
+
 
 ## CT431 20MR from Crocus - contact based current sensor
 - https://crocus-technology.com/datasheets/CT431%20Data%20Sheet.pdf
