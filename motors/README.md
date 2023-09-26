@@ -1,4 +1,4 @@
-TI Precision Labs courses on: 
+# TI Precision Labs courses on motors:
 - [Introduction to motor drivers](https://www.ti.com/video/series/precision-labs/ti-precision-labs-introduction-to-motor-drivers.html)
 - [Brushed-DC motors](https://www.ti.com/video/series/precision-labs/ti-precision-labs-brushed-dc-motors.html)
 - [Stepper motors](https://www.ti.com/video/series/precision-labs/ti-precision-labs-stepper-motors.html)
