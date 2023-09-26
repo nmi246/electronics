@@ -1,3 +1,12 @@
+TI Precision Labs courses on: 
+- [Introduction to motor drivers](https://www.ti.com/video/series/precision-labs/ti-precision-labs-introduction-to-motor-drivers.html)
+- [Brushed-DC motors](https://www.ti.com/video/series/precision-labs/ti-precision-labs-brushed-dc-motors.html)
+- [Stepper motors](https://www.ti.com/video/series/precision-labs/ti-precision-labs-stepper-motors.html)
+- [Brushless-DC motors](https://www.ti.com/video/series/precision-labs/ti-precision-labs-brushless-dc-motors.html)
+- [Motor technology](https://www.ti.com/video/series/precision-labs/ti-precision-labs-motor-technology.html)
+- [Designing with motor drivers](https://www.ti.com/video/series/precision-labs/ti-precision-labs-designing-with-motor-drivers.html)
+
+
 # Motors, motor control, or anything related to motors.
 
 STM32 Nucleo expansion boards - motor control selection guide: https://www.st.com/resource/en/brochure/stm32_nucleo_expansion_boards_motor_control_selection_guide.pdf
