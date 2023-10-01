@@ -46,7 +46,8 @@
 - Cheap Near UV devices:
   - [SM0603UV-400, from Bivar, $1.20 USD Digikey](https://www.bivar.com/parts_content/Datasheets/SM0603UV-400.pdf) 
   - [VLMU3100-GS08, from Vishay, $0.74 USD Digikey](https://www.vishay.com/docs/82556/vlmu3100.pdf)
-
+- PU35CM1 from Lextar
+  - UVC LED
 
 
 UV spectrum:  
