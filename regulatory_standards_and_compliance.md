@@ -37,9 +37,11 @@ RoHS is often referred to as the "lead-free directive", but it restricts the use
 
 ### REACH:
 REACH: Registration, Evaluation, Authorisation and Restriction of Chemicals
+souce: https://echa.europa.eu/regulations/reach/understanding-reach
 
 
 ### SVHC: Substances of very high concern
+- source: https://echa.europa.eu/-/chemicals-in-our-life-chemicals-of-concern-svhc
 - Substances that may have serious effects on human health and the environment can be identified as substances of very high concern (SVHCs). These are primarily substances which are carcinogenic, mutagenic or toxic to reproduction as well as substances with persistent and bio-accumulative characteristics. Other substances of equivalent concern include, for example, endocrine disrupting chemicals.
 - After a substance has been officially identified in the EU as being of very high concern, it will be added to the Candidate List. This list indicates to consumers and industry which chemicals are identified as SVHCs.
 - Companies manufacturing or importing articles containing these substances in a concentration above 0,1% weight of the article, have legal obligations. They are required to inform recipients of the articles about the presence of the substance and therefore how to use it safely. They also need to inform consumers requesting this information.
