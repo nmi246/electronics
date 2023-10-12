@@ -26,7 +26,10 @@ datasheet: https://www.vybronics.com/erm-cylindrical-vibration-motors/low-curren
 DC Motor Vibration, ERM 8000 RPM 3VDC  
 <img src="https://github.com/nmi246/electronics/assets/42329930/060dacd5-7b6c-458e-8062-1156d8ba88d1" width="300" height="300">
 
-  
+# Vibration motors from Mouser:
+https://www.mouser.com/c/electromechanical/motors-drives/vibration-motors/  
+
+
 
 
 
