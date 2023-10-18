@@ -17,3 +17,4 @@ Display products and schematics of how to use them.
 - AS1130 Typical Application Diagram:
 - ![image](https://github.com/nmi246/electronics/assets/42329930/07541cae-eca5-4997-9d50-ca193a443395)
 
+E-Paper display MFR: https://www.good-display.com/
