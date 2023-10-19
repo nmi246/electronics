@@ -1,10 +1,13 @@
-# Inductive Sensing:
-Introduction to LDC calculator tool, from TI: https://www.youtube.com/watch?v=VYyo0-DM-M0&ab_channel=TexasInstruments
-TI's inductive sensor portfolio: Inductive sensor AFEs
-Angle detection and rotary encoding: https://www.youtube.com/watch?v=VDLZz4ntM2I&ab_channel=TexasInstruments
+# Inductive Sensing
+Introduction to LDC calculator tool, from TI: https://www.youtube.com/watch?v=VYyo0-DM-M0&ab_channel=TexasInstruments  
+TI's inductive sensor portfolio, Inductive sensor AFEs: https://www.ti.com/sensors/specialty-sensors/inductive/overview.html  
+Angle detection and rotary encoding: https://www.youtube.com/watch?v=VDLZz4ntM2I&ab_channel=TexasInstruments  
+  
 
-
-# Overview of inductive sensing technology, from TI: https://www.youtube.com/watch?v=cnNDUyTttrM&ab_channel=TexasInstruments
+  
+# Overview of inductive sensing technology
+source: https://www.youtube.com/watch?v=cnNDUyTttrM&ab_channel=TexasInstruments  
+  
 ![image](https://github.com/nmi246/electronics/assets/42329930/f0085296-20b2-4737-b87f-4b1bf5599212)
 ![image](https://github.com/nmi246/electronics/assets/42329930/e3f2f385-b70f-48df-988c-91b4fee0f4e3)
 ![image](https://github.com/nmi246/electronics/assets/42329930/cb57b21d-b39a-4acf-8a10-53e61f233d00)
