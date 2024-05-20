@@ -1,5 +1,6 @@
 # All things related to lighting
 
+
 ## LED driver ICs:
 - Infineon BCR431U series (10-200mA typical)
   - Linear LED driver IC.
@@ -8,6 +9,20 @@
   - Vin: 12V, 24V, 48V.
   - [BCR321U series datasheet](https://www.infineon.com/dgdl?fileId=5546d4624b0b249c014b7d69949b463b)
 - 
+
+
+## Lighting technologies:
+Lasers
+solid state lasers, 
+MEMs micro-mirrors.
+LiFi -- for communications 
+  - see pureLiFi -- by Harald Haas.
+EL (electroluminescent) Fiber -- for comms
+
+## UV light sources:
+- Mercury tube -- emittes 245nm and 185nm UV. 185nm can create Ozone which is toxic.
+- UV leds,
+- Xenon tubes, 
 
 
 ## LED manufacturers: 
