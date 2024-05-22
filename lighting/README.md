@@ -34,8 +34,13 @@ EL (electroluminescent) Fiber -- for comms
 | Wurth Electroniks | Indicator,      |
 
 
-
-
+Automotive headlamps - history:
+- parafin 
+- carbide lamp.
+- electric
+- xenon
+- led, matrix led
+- laser , matrix laser headlamp
 
 
 ## Acronyms 
